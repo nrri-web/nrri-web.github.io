@@ -18,6 +18,10 @@ install:
 
 script: bundle exec rake site:deploy --quiet
 
+branches:
+  only:
+    - source
+
 env:
   global:
     secure: "VeZF1AIGDEXEfgbW4XMshcXF6moohqosANNbAFLhfVvyuS5VTfMr9EUfE7ylEew4Rzys9UvecLcXnOtkKU/WQXydKTaS8YptZ6WZcntgIZO1JRJ5oPpVM1Qp56qDd6DiSi7JxCXmEvn2sI0cGelifiD4F0TKIPheJDi3JyUhxkU="
