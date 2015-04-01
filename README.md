@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dtphelan/nrri.svg?branch=source)](https://travis-ci.org/dtphelan/nrri)
+[![Build Status](https://travis-ci.org/nrri-web/nrri-web.github.io.svg)](https://travis-ci.org/nrri-web/nrri-web.github.io)
 
 ## Website for NRRI ##
 
