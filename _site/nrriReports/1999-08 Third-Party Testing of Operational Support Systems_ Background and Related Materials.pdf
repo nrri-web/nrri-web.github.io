@@ -1,1009 +1,0 @@
-%PDF-1.2 
-%‚„œ”
- 
-12 0 obj
-<<
-/Length 13 0 R
->>
-stream
-BT476.25 708  TD0 0 0 rg /F0 12  Tf0.082  Tc -0.418  Tw (NRRI 99-13) Tj-394.5 -123  TD /F0 14.25  Tf0.1507  Tc -0.3622  Tw (THIRD-PARTY TESTING OF OPERATIONAL SUPPORT SYSTEMS:) Tj75.75 -17.25  TD -0  Tc -0.2113  Tw (BACKGROUND AND RELATED MATERIALS) Tj113.25 -114.75  TD /F1 12  Tf-0.0764  Tc -0.2596  Tw (Frank P. Darr) Tj-36 -14.25  TD -0.0365  Tc -0.2995  Tw (Senior Research Specialist) Tj-50.25 -63  TD /F2 12  Tf-0.0077  Tc -0.3283  Tw (The National Regulatory Research Institute) Tj66.75 -14.25  TD /F1 12  Tf0.0088  Tc -0.3448  Tw (1080 Carmack Road) Tj-20.25 -14.25  TD -0.0863  Tc -0.2497  Tw (Columbus, Ohio 43210-1002) Tj-10.5 -14.25  TD -0.1279  Tc -0.2081  Tw (Website: www.nrri.ohio-state.edu) Tj52.5 -57.75  TD -0.1044  Tc -0.2316  Tw (August 1999) Tj-201 -128.25  TD -0.2242  Tc -0.1118  Tw (This Report was prepared by the National Regulatory Research Institute \(NRRI\).  Funding) Tj0 -14.25  TD -0.107  Tc -0.229  Tw (was provided by the member commissions of the National Association of Regulatory) TjT* -0.1248  Tc -0.2112  Tw (Utilities Commissioners \(NARUC\).  The opinions expressed herein are the author\222s and) TjT* -0.1762  Tc -0.1598  Tw (do not necessarily reflect the views, opinions, or policies of the NRRI, the NARUC, or any) TjT* -0.0905  Tc -0.2455  Tw (NARUC-member commission.) TjETendstream
-endobj
-13 0 obj
-1347
-endobj
-4 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F2 10 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 12 0 R
->>
-endobj
-14 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/ProcSet 2 0 R
->>
->>
-endobj
-18 0 obj
-<<
-/Length 19 0 R
->>
-stream
-BT72 75  TD0 0 0 rg /F1 9.75  Tf-0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj393.75 0  TD /F1 12  Tf0.336  Tc 0  Tw (iii) Tj-303 588  TD /F0 14.25  Tf0.2891  Tc -0.5006  Tw (TABLE OF CONTENTS) Tj282.75 -43.5  TD /F0 12  Tf0.1425  Tc 0  Tw (Page) TjET510.75 618 29.25 0.75 re fBT72 591  TD/F1 12  Tf-0.1567  Tc (Overview) Tj54 0  TD 2.664  Tc (...................................................................) Tj407.25 0  TD 0.078  Tc (1) Tj-425.25 -15  TD -0.1904  Tc -0.1456  Tw (Summary of Report) Tj108 0  TD 2.664  Tc 0  Tw (....................................................) Tj317.25 0  TD 0.078  Tc (1) Tj-425.25 -13.5  TD -0.2096  Tc -0.1264  Tw (Other Materials) Tj84 0  TD 2.664  Tc 0  Tw (........................................................) Tj341.25 0  TD 0.078  Tc (2) Tj-461.25 -28.5  TD -0.0337  Tc -0.3023  Tw (FCC Review Standards and Decisions Regarding OSS) Tj294 0  TD 2.664  Tc 0  Tw (...........................) Tj167.25 0  TD 0.078  Tc (3) Tj-425.25 -15  TD -0.1551  Tc (Summary) Tj54 0  TD 2.664  Tc (.............................................................) Tj371.25 0  TD 0.078  Tc (3) Tj-425.25 -13.5  TD -0.0734  Tc -0.2626  Tw (FCC Legal Structure for OSS Review) Tj198 0  TD 2.664  Tc 0  Tw (.....................................) Tj227.25 0  TD 0.078  Tc (3) Tj-425.25 -15  TD -0.0218  Tc -0.3142  Tw (FCC Reviews of Section 271 Applications for OSS Parity) Tj300 0  TD 2.664  Tc 0  Tw (....................) Tj125.25 0  TD 0.078  Tc (6) Tj-389.25 -13.5  TD -0.162  Tc (Functionality) Tj72 0  TD 2.664  Tc (....................................................) Tj317.25 0  TD 0.078  Tc (6) Tj-389.25 -15  TD -0.0322  Tc -0.3038  Tw (Capacity and Scalability) Tj132 0  TD 2.664  Tc 0  Tw (..........................................) Tj257.25 0  TD 0.078  Tc (8) Tj-389.25 -13.5  TD -0.097  Tc -0.239  Tw (Supporting Documentation) Tj144 0  TD 2.664  Tc 0  Tw (........................................) Tj245.25 0  TD 0.078  Tc (8) Tj-461.25 -28.5  TD -0.2273  Tc -0.1087  Tw (New York OSS Testing) Tj126 0  TD 2.664  Tc 0  Tw (......................................................) Tj328.5 0  TD 0.078  Tc (10) Tj-418.5 -15  TD -0.1301  Tc -0.2059  Tw (Background of New York OSS Review) Tj204 0  TD 2.664  Tc 0  Tw (...................................) Tj214.5 0  TD 0.078  Tc (10) Tj-418.5 -13.5  TD -0.1776  Tc -0.1584  Tw (Overview of the New York Approach) Tj192 0  TD 2.664  Tc 0  Tw (.....................................) Tj226.5 0  TD 0.078  Tc (11) Tj-418.5 -15  TD -0.0849  Tc -0.2511  Tw (The Virtual CLEC) Tj96 0  TD 2.664  Tc 0  Tw (.....................................................) Tj322.5 0  TD 0.078  Tc (11) Tj-418.5 -13.5  TD -0.1692  Tc -0.1668  Tw (OSS Testing) Tj72 0  TD 2.664  Tc 0  Tw (.........................................................) Tj346.5 0  TD 0.078  Tc (12) Tj-418.5 -15  TD -0.12  Tc (Domains) Tj54 0  TD 2.664  Tc (............................................................) Tj364.5 0  TD 0.078  Tc (13) Tj-418.5 -15  TD -0.1121  Tc -0.2239  Tw (Testing Standards) Tj102 0  TD 2.664  Tc 0  Tw (....................................................) Tj316.5 0  TD 0.078  Tc (14) Tj-454.5 -28.5  TD -0.1117  Tc -0.2243  Tw (The Texas OSS Testing Approach) Tj186 0  TD 2.664  Tc 0  Tw (............................................) Tj268.5 0  TD 0.078  Tc (14) Tj-418.5 -13.5  TD -0.154  Tc -0.182  Tw (Background of Texas OSS Testing) Tj186 0  TD 2.664  Tc 0  Tw (......................................) Tj232.5 0  TD 0.078  Tc (14) Tj-418.5 -15  TD -0.2005  Tc -0.1355  Tw (The Texas Master Test Plan: Overview) Tj204 0  TD 2.664  Tc 0  Tw (...................................) Tj214.5 0  TD 0.078  Tc (15) Tj-418.5 -13.5  TD -0.2326  Tc -0.1034  Tw (Functional Testing) Tj102 0  TD 2.664  Tc 0  Tw (....................................................) Tj316.5 0  TD 0.078  Tc (16) Tj-418.5 -15  TD -0.1352  Tc -0.2008  Tw (Capacity Testing) Tj96 0  TD 2.664  Tc 0  Tw (.....................................................) Tj322.5 0  TD 0.078  Tc (17) Tj-418.5 -13.5  TD -0.0942  Tc -0.2418  Tw (Performance Standards) Tj132 0  TD 2.664  Tc 0  Tw (...............................................) Tj286.5 0  TD 0.078  Tc (17) Tj-454.5 -28.5  TD -0.1115  Tc -0.2245  Tw (Performance Measures) Tj126 0  TD 2.664  Tc 0  Tw (......................................................) Tj328.5 0  TD 0.078  Tc (18) Tj-418.5 -15  TD -0.0945  Tc -0.2415  Tw (Viewing the CD-ROM) Tj120 0  TD 2.664  Tc 0  Tw (.................................................) Tj298.5 0  TD 0.078  Tc (19) Tj-418.5 -13.5  TD -0.1764  Tc -0.1596  Tw (Documents on the CD-ROM) Tj150 0  TD 2.664  Tc 0  Tw (............................................) Tj268.5 0  TD 0.078  Tc (20) TjETendstream
-endobj
-19 0 obj
-4948
-endobj
-15 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 18 0 R
->>
-endobj
-21 0 obj
-<<
-/Length 22 0 R
->>
-stream
-BT72 75  TD0 0 0 rg /F1 9.75  Tf-0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj396 0  TD /F1 12  Tf0.078  Tc 0  Tw (1) Tj-259.5 588  TD /F0 14.25  Tf0.235  Tc (Overview) Tj-165.75 -43.5  TD /F1 12  Tf-0.129  Tc -0.207  Tw (This report and CD-ROM provide materials that have been developed in the review) Tj-36 -21  TD -0.1453  Tc -0.1907  Tw (of Operational Support Systems \(OSS\).  When this report was prepared during the) Tj0 -21.75  TD -0.0823  Tc -0.2537  Tw (summer of 1999, the FCC had reviewed several section 271 applications and defined) Tj0 -21  TD -0.196  Tc -0.14  Tw (standards that would govern its review of OSS, and New York and Texas had neared the) Tj0 -21.75  TD -0.1256  Tc -0.2104  Tw (completion of their OSS testing.  Several other states had begun their own tests based on) TjT* -0.1878  Tc -0.1482  Tw (the New York and Texas models.  Other states, including a joint effort by several served by) Tj0 -21  TD -0.146  Tc -0.19  Tw (U S WEST, were planning testing efforts.  In an attempt to assist commissions in this) Tj0 -21.75  TD -0.1631  Tc -0.1729  Tw (process, this report summarizes and collects many of the important documents defining) Tj0 -21  TD -0.1403  Tc -0.1957  Tw (legal standards and  the testing that has taken place.) Tj0 -44.25  TD /F0 12  Tf0.0216  Tc -0.3576  Tw (Summary of Report ) Tj36 -21.75  TD /F1 12  Tf-0.1247  Tc -0.2113  Tw (OSS are the elements a telephone company uses to provision services to its) Tj-36 -21.75  TD -0.1414  Tc -0.1946  Tw (customers, whether these are its own retail customers or competing telephone companies. ) Tj0 -21.75  TD -0.1213  Tc -0.2147  Tw (These services include support for pre-ordering, ordering, provisioning, repair and) Tj0 -21  TD -0.133  Tc -0.203  Tw (maintenance, and billing.) Tj36 -21  TD -0.1243  Tc -0.2117  Tw (As part of the process to permit a regional Bell operating company to enter the) Tj-36 -22.5  TD -0.0862  Tc -0.2498  Tw (interLATA in-region long distance market, the Federal Communications Commission) Tj0 -21  TD -0.1257  Tc -0.2103  Tw (\(FCC\) has required the applicant to demonstrate that it can provide OSS either at the) Tj0 -21.75  TD -0.147  Tc -0.189  Tw (same level that it provides those services to itself or, in the case of services that the) Tj0 -21  TD -0.2024  Tc -0.1336  Tw (company would not provide itself, at a level that would permit an efficient new entrant to) Tj0 -21.75  TD -0.1967  Tc -0.1393  Tw (compete with the incumbent.  Normally, the ability of the company to provide OSS would) Tj0 -21  TD -0.1737  Tc -0.1623  Tw (be measured by actual performance.  The FCC, however, has recognized that the results) Tj0 -21.75  TD -0.1655  Tc -0.1705  Tw (of third-party testing may be used to demonstrate that the OSS are commercially ready.) TjETendstream
-endobj
-22 0 obj
-2922
-endobj
-20 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 21 0 R
->>
-endobj
-24 0 obj
-<<
-/Length 25 0 R
->>
-stream
-BT72 75  TD0 0 0 rg /F1 12  Tf0.078  Tc 0  Tw (2) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-366.75 633  TD /F1 12  Tf-0.1546  Tc -0.1814  Tw (Two distinct approaches to OSS third-party testing have developed.  To evaluate) Tj-36 -21  TD -0.1288  Tc -0.2072  Tw (Bell Atlantic-New York\222s \(BA\) compliance with section 271 of the Telecommunications Act) Tj0 -21.75  TD -0.1202  Tc -0.2158  Tw (of 1996, the New York commission approved the creation of a virtual competitive local) Tj0 -21  TD -0.1046  Tc -0.2314  Tw (exchange carrier \(CLEC\) and is using it to determine if the company is providing sufficient) Tj0 -21.75  TD -0.1237  Tc -0.2123  Tw (OSS resources to wholesalers. ) Tj36 -21  TD -0.1223  Tc -0.2137  Tw (The Texas commission\222s review of SWB consists of two parts.  The first part) Tj-36 -21.75  TD -0.1061  Tc -0.2299  Tw (assesses the functional capabilities of the OSS.  It requires SWB to demonstrate that it) Tj0 -21  TD -0.0987  Tc -0.2373  Tw (can provide pre-ordering, ordering, provisioning, billing, and maintenance and repair) Tj0 -21.75  TD -0.1901  Tc -0.1459  Tw (through its current OSS.  The second part examines the robustness of the computer) TjT* -0.1835  Tc -0.1525  Tw (systems.  It requires SWB to demonstrate that its computer systems can handle the) Tj0 -21  TD -0.117  Tc -0.219  Tw (expected customer requests for order and pre-order information, estimated at first quarter) Tj0 -21.75  TD -0.119  Tc -0.217  Tw (2000 levels.  The test is being conducted using the services of SWB, several competitors,) Tj0 -21  TD -0.0941  Tc -0.2419  Tw (commission staff, and a third-party administrator.  SWB collected the data and provided it) Tj0 -21.75  TD -0.1698  Tc -0.1662  Tw (to the administrator for evaluation.  The administrator determined whether the systems) Tj0 -21  TD -0.107  Tc -0.229  Tw (meet the previously agreed-to performance criteria.) Tj36 -21.75  TD -0.1552  Tc -0.1808  Tw (Inherent in the testing is a determination that the various operations meet certain) Tj-36 -21  TD -0.1009  Tc -0.2351  Tw (performance standards.  Both the FCC and various state commissions have proposed or) Tj0 -21.75  TD -0.1491  Tc -0.1869  Tw (adopted standards to measure the performance of the incumbent.  These standards,) TjT* -0.1541  Tc -0.1819  Tw (however, go well beyond the provision of pre-order, order, provisioning, billing, and) Tj0 -21  TD -0.1659  Tc -0.1701  Tw (maintenance functions that make up the core of the OSS activities.  Also included in the) Tj0 -21.75  TD -0.1155  Tc -0.2205  Tw (various standards are provisions for system performance, collocation, directory) Tj0 -21  TD -0.1474  Tc -0.1886  Tw (assistance, and other items key to the introduction of new services.) Tj0 -44.25  TD /F0 12  Tf-0.1624  Tc -0.1736  Tw (Other Materials) Tj36 -22.5  TD /F1 12  Tf-0.1563  Tc -0.1797  Tw (This report includes a CD-ROM.  The CD-ROM contains  a copy of this report and) Tj-36 -21  TD -0.1584  Tc -0.1776  Tw (most of the references in the report.  It also includes materials that have some direct) Tj0 -21.75  TD -0.1766  Tc -0.1594  Tw (relation to OSS in the quickly changing telecommunications market.  The instructions to) TjT* -0.1619  Tc -0.1741  Tw (view the CD-ROM are found on the last page of this report.) TjETendstream
-endobj
-25 0 obj
-3460
-endobj
-23 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 24 0 R
->>
-endobj
-27 0 obj
-<<
-/Length 28 0 R
->>
-stream
-0 0 0 rg 72 185.25 144.75 1.5 re fBT108 166.5  TD/F1 7.5  Tf0.33  Tc 0  Tw (1) Tj4.5 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0894  Tc 0.3789  Tw (Telecommunications Act of 1996 \247 271\(c\)\(2\)\(B\)\(ii\) \(unbundled network elements\) and \(xiv\)) Tj-43.5 -12  TD -0.1393  Tc 0  Tw (\(resale\).) Tj36 -21  TD /F1 7.5  Tf0.33  Tc (2) Tj4.5 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.002  Tc 0.2915  Tw (Application of BellSouth Corp., BellSouth Telecommunications, Inc., BellSouth Long Distance,) Tj-43.5 -12.75  TD -0.1255  Tc 0.415  Tw (Inc., for Provision of In-Region, InterLATA Service in Louisiana, FCC Order No. 98-271 \266 83 \(1998\)) Tj0 -12  TD -0.1177  Tc 0.4072  Tw (\(hereinafter as ) Tj64.5 0  TD /F3 9.75  Tf0.0708  Tc 0.2187  Tw (BellSouth LA\)) Tj60 0  TD /F1 9.75  Tf0.2895  Tc 0  Tw (.) Tj-124.5 -24.75  TD -0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj396 0  TD /F1 12  Tf0.078  Tc 0  Tw (3) Tj-413.25 630.75  TD /F0 14.25  Tf0.1955  Tc -0.407  Tw (FCC Review Standards and Decisions Regarding OSS) Tj-48 -45.75  TD /F0 12  Tf0.0094  Tc 0  Tw (Summary) Tj36 -22.5  TD /F1 12  Tf-0.1001  Tc -0.2359  Tw (For its review  applications seeking relief from the lines of business restrictions) Tj-36 -21.75  TD -0.1489  Tc -0.1871  Tw (contained in the Telecommunications Act of 1996, the FCC has stated that the incumbent) Tj0 -21  TD -0.1658  Tc -0.1702  Tw (has the burden to demonstrate that the OSS are competitively neutral.  For those services) Tj0 -21.75  TD -0.1471  Tc -0.1889  Tw (the incumbent provides itself and competitors, the applicant must show parity of service. ) Tj0 -21  TD -0.1927  Tc -0.1433  Tw (For those services that are not analogous, the incumbent must offer services that would) Tj0 -21.75  TD -0.1182  Tc -0.2178  Tw (permit an efficient competitor a meaningful opportunity to compete.  The FCC has been) Tj0 -21  TD -0.1172  Tc -0.2188  Tw (particularly interested in demonstrations of commercial usage and data concerning real) Tj0 -21.75  TD -0.1198  Tc -0.2162  Tw (market activities, but it will consider third-party testing as a substitute if commercial data) TjT* -0.1419  Tc -0.1941  Tw (are not available.  The data must demonstrate that the OSS are providing those services) Tj0 -21  TD -0.1661  Tc -0.1699  Tw (competitors need to operate, and the OSS are sufficiently robust to handle current and) Tj0 -21.75  TD -0.1172  Tc -0.2188  Tw (reasonably expected demands by competitors.  Moreover, the FCC requires a) Tj0 -21  TD -0.121  Tc -0.215  Tw (demonstration that competitors can receive these services and the services are being) Tj0 -21.75  TD -0.187  Tc -0.149  Tw (performed in substantially the same way the incumbent performs them for itself.) Tj0 -43.5  TD /F0 12  Tf0.0505  Tc -0.3865  Tw (FCC Legal Structure for OSS Review) Tj36 -21.75  TD /F1 12  Tf-0.1131  Tc -0.2229  Tw (To secure relief from the section 271 restrictions, a regional Bell operating) Tj-36 -22.5  TD -0.1149  Tc -0.2211  Tw (company \(RBOC\) must demonstrate to the FCC it has opened its systems to competitors) Tj0 -21  TD -0.1952  Tc -0.1408  Tw (so that they may compete in the local exchange market.) Tj285 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (1) Tj4.5 -4.5  TD /F1 12  Tf-0.1049  Tc -0.2311  Tw (  To satisfy the Commission, an) Tj-289.5 -21.75  TD -0.1325  Tc -0.2035  Tw (RBOC must prove  that it is providing nondiscriminatory access to the network element of) Tj0 -21.75  TD -0.1212  Tc -0.2148  Tw (OSS and the OSS necessary to provide resale required by section 251\(c\)\(3\) and \(4\) of the) Tj0 -21  TD -0.1065  Tc 0  Tw (Act.) Tj20.25 4.5  TD /F1 7.5  Tf0.33  Tc (2) TjETendstream
-endobj
-28 0 obj
-3835
-endobj
-26 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 27 0 R
->>
-endobj
-31 0 obj
-<<
-/Length 32 0 R
->>
-stream
-0 0 0 rg 72 175.5 144.75 1.5 re fBT108 157.5  TD/F1 7.5  Tf0.33  Tc 0  Tw (3) Tj4.5 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1051  Tc 0.3946  Tw (Id., \266 83.) Tj-7.5 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (4) Tj4.5 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1051  Tc 0.3946  Tw (Id., \266 85.) Tj-7.5 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (5) Tj4.5 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1051  Tc 0.3946  Tw (Id., \266 87.) Tj-43.5 -25.5  TD /F1 12  Tf0.078  Tc 0  Tw (4) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-366.75 633  TD /F1 12  Tf-0.117  Tc -0.219  Tw (The rationale for this approach is competitive parity.  As the FCC stated in the) Tj-36 -21.75  TD -0.073  Tc 0.487  Tw (second ) Tj41.25 0  TD /F3 12  Tf0.1267  Tc -0.4627  Tw (BellSouth Louisiana) Tj108 0  TD /F1 12  Tf-0.1668  Tc -0.1692  Tw ( order, \223The Commission consistently has found that) Tj-149.25 -21.75  TD -0.1357  Tc -0.2003  Tw (nondiscriminatory access to these systems, databases, and personnel is integral to the) Tj0 -21.75  TD -0.1492  Tc -0.1867  Tw (ability of competing carriers to enter the local exchange market and compete with the) Tj0 -21  TD -0.1867  Tc -0.1493  Tw (incumbent [local exchange company].  New entrants must be able to provide service to) Tj0 -21.75  TD -0.1731  Tc -0.1629  Tw (their customers at a quality level that matches the service provided by the incumbent [local) Tj0 -21  TD -0.184  Tc -0.152  Tw (exchange company] to compete effectively in the local exchange market.\224) Tj375.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (3) Tj-339.75 -25.5  TD /F1 12  Tf-0.1254  Tc -0.2106  Tw (In making its review of an applicant's OSS compliance, the FCC will consider two) Tj-36 -22.5  TD -0.1971  Tc -0.1389  Tw (elements.  First, the company must demonstrate that it has the necessary systems and) Tj0 -21  TD -0.1302  Tc -0.2058  Tw (personnel to provide each of the OSS components and has provided the competitors with) Tj0 -21.75  TD -0.1476  Tc -0.1884  Tw (sufficient information so that the competitors can use the systems.  Second, the FCC will) Tj0 -21  TD -0.1828  Tc -0.1532  Tw (determine if the systems are operationally ready.  \223Under the second part of the inquiry, the) Tj0 -21.75  TD -0.102  Tc -0.234  Tw (Commission examines performance measurements and other evidence of commercial) Tj0 -21  TD -0.0775  Tc 0  Tw (readiness.\224) Tj58.5 4.5  TD /F1 7.5  Tf0.33  Tc (4) Tj4.5 -4.5  TD /F1 12  Tf-0.1355  Tc -0.2005  Tw (  The company must demonstrate that it offers \223access to competing carriers) Tj-63 -21.75  TD -0.1638  Tc -0.1722  Tw (that is equivalent to the access the [company] provides itself in the case of OSS functions) Tj0 -21  TD -0.1562  Tc -0.1798  Tw (that are analogous to OSS functions that a [company] provides to itself. ...  For those OSS) Tj0 -21.75  TD -0.1919  Tc -0.1441  Tw (functions that have no retail analogue \(such as ordering and provision of unbundled) TjT* -0.154  Tc -0.182  Tw (network elements\), a [company] must offer access sufficient to allow an efficient competitor) Tj0 -21  TD -0.1769  Tc -0.1591  Tw (a meaningful opportunity to compete.\224) Tj194.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (5) Tj-158.25 -26.25  TD /F1 12  Tf-0.1347  Tc -0.2013  Tw (The FCC has recognized two kinds of evidence to demonstrate that a company has) Tj-36 -21  TD -0.1279  Tc -0.2081  Tw (complied with the OSS requirement.  The primary evidence is actual commercial usage. ) Tj0 -21.75  TD -0.1288  Tc -0.2072  Tw (The FCC will consider evidence both from the state for which the application is being) Tj0 -21  TD -0.1505  Tc -0.1855  Tw (made and other states in the company\222s service region.  The company may also) Tj0 -21.75  TD -0.1195  Tc -0.2165  Tw (demonstrate commercial readiness through \223carrier-to-carrier testing, independent) TjETendstream
-endobj
-32 0 obj
-4069
-endobj
-29 0 obj
-<<
-/Type /Page
-/Parent 30 0 R
-/Resources <<
-/Font <<
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 31 0 R
->>
-endobj
-34 0 obj
-<<
-/Length 35 0 R
->>
-stream
-0 0 0 rg 72 276 144.75 1.5 re fBT108 258  TD/F1 7.5  Tf0.33  Tc 0  Tw (6) Tj4.5 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0398  Tc 0.3293  Tw (Id., \266 86.  As noted below, internal testing has not been given much weight.) Tj-7.5 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (7) Tj4.5 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1051  Tc 0.3946  Tw (Id., \266 92.) Tj-7.5 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (8) Tj4.5 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0863  Tc 0.3758  Tw (In the Matter of Performance Measurements and Reporting Requirements for Operations Support) Tj-43.5 -12  TD -0.0023  Tc 0.2918  Tw (Systems, Interconnection, and Operator Services and Directory Assistance, Notice of Proposed) Tj0 -12.75  TD -0.0847  Tc 0.3742  Tw (Rulemaking, CC Docket No 98-56 \266 34 \(Apr. 17, 1998\).) Tj36 -21.75  TD /F1 7.5  Tf0.33  Tc 0  Tw (9) Tj4.5 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0768  Tc 0.3663  Tw (Id., \266\266 13 & 18.) Tj-7.5 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (10) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0362  Tc 0.3257  Tw (Id., \266 18.The FCC also endorsed an order issued by the Louisiana commission that directed) Tj-48 -12.75  TD -0.0615  Tc 0.351  Tw (BellSouth to develop performance measurements for those functions it must provide to competing carriers) Tj0 -12  TD 0.0064  Tc 0.2831  Tw (that it does not provide to its retail customers.  ) Tj204.75 0  TD /F3 9.75  Tf-0.0367  Tc 0.3262  Tw (BellSouth LA) Tj57 0  TD /F1 9.75  Tf-0.0128  Tc 0.2085  Tw (, supra note 2,  \266 93 \(citing ) Tj120 0  TD /F3 9.75  Tf0.1133  Tc 0  Tw (BellSouth) Tj-381.75 -24.75  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj396 0  TD /F1 12  Tf0.078  Tc 0  Tw (5) Tj-461.25 633  TD -0.152  Tc -0.184  Tw (third-party testing, and internal testing, in the absence of commercial usage.\224) Tj393 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (6) Tj4.5 -4.5  TD /F1 12  Tf-0.3516  Tc 0.0156  Tw (  In its) Tj-397.5 -21  TD -0.1299  Tc -0.2061  Tw (application, the FCC will consider whether the data is complete, sufficiently) Tj0 -21.75  TD -0.067  Tc -0.269  Tw (disaggregated, and statistically valid.) Tj191.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (7) Tj-155.25 -24.75  TD /F1 12  Tf-0.1523  Tc -0.1837  Tw (In its proposed rule making on performance measurements, the FCC particularly) Tj-36 -22.5  TD -0.1567  Tc -0.1793  Tw (emphasized the need for statistically valid results.  It stated:) Tj72 -34.5  TD -0.1191  Tc -0.2169  Tw (We recognize that reporting averages of performance) Tj0 -15  TD -0.2206  Tc -0.1154  Tw (measurements alone, without further analysis, may not reveal) Tj0 -14.25  TD -0.2194  Tc -0.1166  Tw (whether there are underlying differences in the way incumbent) TjT* -0.1447  Tc -0.1913  Tw ([companies] treat their own retail operations in relation to the) Tj0 -15  TD -0.1452  Tc -0.1908  Tw (way they treat competing carriers.  Consequently, we propose,) Tj0 -14.25  TD -0.1241  Tc -0.2119  Tw (as part of the model rules proposed herein, the use of) TjT* -0.1066  Tc -0.2294  Tw (statistical tests to determine whether measured differences in) TjT* -0.142  Tc -0.194  Tw (the average performance of incumbent [companies] toward) TjT* -0.1092  Tc -0.2268  Tw (their retail customers and toward competing carriers represent) TjT* -0.1692  Tc -0.1667  Tw (true differences in behavior rather than random chance.) Tj284.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (8) Tj-356.25 -39.75  TD /F1 12  Tf-0.1214  Tc -0.2146  Tw (Further, the FCC encouraged the use of reporting to promote disclosure and the provision) Tj0 -21.75  TD -0.1413  Tc -0.1947  Tw (of high-quality OSS.) Tj102.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (9) Tj-66.75 -24.75  TD /F1 12  Tf-0.0974  Tc -0.2386  Tw (Apart from the guidance that the FCC has provided in the section 271 decisions,) Tj-36 -22.5  TD -0.1272  Tc -0.2088  Tw (there are no \223federal standards\224 for performance apart from parity and the provision of) Tj0 -21.75  TD -0.1785  Tc -0.1575  Tw (such systems that will allow an efficient competitor to enter the market.  Although the FCC) Tj0 -21  TD -0.1423  Tc -0.1937  Tw (sought to guide the states in the adoption of performance standards through its standards) Tj0 -21.75  TD -0.0962  Tc -0.2398  Tw (rulemaking, it did not adopt explicit standards of performance.) Tj318.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (10) Tj9 -4.5  TD /F1 12  Tf-0.2017  Tc -0.1343  Tw (  Thus, it is left to a state to) TjETendstream
-endobj
-35 0 obj
-4734
-endobj
-33 0 obj
-<<
-/Type /Page
-/Parent 30 0 R
-/Resources <<
-/Font <<
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 34 0 R
->>
-endobj
-37 0 obj
-<<
-/Length 38 0 R
->>
-stream
-0 0 0 rg 72 235.5 144.75 1.5 re fBT72 215.25  TD/F3 9.75  Tf0  Tc 0.2888  Tw (Telecommunications, Inc, Service Quality Performance Measurements) Tj306 0  TD /F1 9.75  Tf-0.0063  Tc 0.2958  Tw (, Docket No. U-22252 \(Subdocket-) Tj-306 -12.75  TD -0.1203  Tc 0.4098  Tw (C\), General Order \(adopted Aug. 31, 1998\).) Tj36 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (11) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0041  Tc 0.2936  Tw (Application of Ameritech Michigan Pursuant to section 271 of the Telecommunications Act of) Tj-48 -12.75  TD -0.0985  Tc 0.388  Tw (1934, as amended, to Provide In-Region, InterLATA Services in Michigan, Memorandum Opinion and Order,) Tj0 -12  TD -0.0964  Tc 0.3859  Tw (CC Docket No. 97-137  \266 133 \(Aug. 19, 1997\) \(hereinafter as ) Tj264.75 0  TD /F3 9.75  Tf-0.0232  Tc 0.3127  Tw (Ameritech Michigan) Tj85.5 0  TD /F1 9.75  Tf-0.3536  Tc 0  Tw (\).) Tj-314.25 -21.75  TD /F1 7.5  Tf0.33  Tc (12) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.122  Tc 0.4115  Tw (Id., \266\266 134-35.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (13) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1124  Tc 0.4019  Tw (Id., \266 135.) Tj-48 -25.5  TD /F1 12  Tf0.078  Tc 0  Tw (6) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-402.75 633  TD /F1 12  Tf-0.1265  Tc -0.2095  Tw (determine in the first instance the relevant level of performance it desires before it) Tj0 -21  TD -0.0626  Tc -0.2734  Tw (indicates its approval of a company\222s section 271 application.) Tj0 -42.75  TD /F0 12  Tf0.0147  Tc -0.3507  Tw (FCC Reviews of Section 271 Applications for OSS Parity) Tj36 -21.75  TD /F1 12  Tf-0.1533  Tc -0.1827  Tw (In the reviews that the FCC has completed, at least three general areas of concern) Tj-36 -22.5  TD -0.1211  Tc -0.2149  Tw (have emerged.  First, the FCC has found that these applications failed to demonstrate that) Tj0 -21  TD -0.1057  Tc -0.2303  Tw (OSS have provided comparable functionality to the competitors.  Second, the Commission) Tj0 -21.75  TD -0.1908  Tc -0.1452  Tw (has concluded the incumbents have not demonstrated that the systems are commercially) Tj0 -21  TD -0.2041  Tc -0.1319  Tw (ready for the expected large volumes of new customers.  Inherent in these findings is the) Tj0 -21.75  TD -0.182  Tc -0.154  Tw (third matter: The incumbents have not provided sufficient or meaningful data in many cases) TjT* -0.1887  Tc -0.1473  Tw (to demonstrate that their systems are functional and nondiscriminatory.) Tj0 -43.5  TD /F3 12  Tf0.0688  Tc 0  Tw (Functionality) Tj36 -21.75  TD /F1 12  Tf-0.1659  Tc -0.1701  Tw (The FCC has repeatedly found that the applications did not demonstrate that the) Tj-36 -21  TD -0.183  Tc -0.153  Tw (OSS was fully and comparably functional.  The FCC has stated that OSS must support all) Tj0 -21.75  TD -0.1867  Tc -0.1493  Tw (modes of entry permitted under the law.) Tj203.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (11) Tj9 -4.5  TD /F1 12  Tf-0.189  Tc -0.147  Tw (  Further, it is not enough that an interface is) Tj-212.25 -21  TD -0.1419  Tc -0.1941  Tw (generally available to the competitors on a nondiscriminatory basis; rather, the system in) Tj0 -21.75  TD -0.1121  Tc -0.2239  Tw (place will be reviewed from end-to-end.) Tj202.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (12) Tj9 -4.5  TD /F1 12  Tf-0.1686  Tc -0.1674  Tw (  The system available to the competitor must) Tj-211.5 -21.75  TD -0.1873  Tc -0.1487  Tw (perform in substantially the same manner for the competitors and the incumbent.) Tj411.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (13) Tj9 -4.5  TD /F1 12  Tf-0.216  Tc -0.12  Tw (  Thus, if) Tj-420.75 -21  TD -0.1144  Tc -0.2216  Tw (the incumbent\222s order is processed electronically, the competitor must receive similar) TjETendstream
-endobj
-38 0 obj
-4005
-endobj
-36 0 obj
-<<
-/Type /Page
-/Parent 30 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 37 0 R
->>
-endobj
-40 0 obj
-<<
-/Length 41 0 R
->>
-stream
-0 0 0 rg 72 330.75 144.75 1.5 re fBT108 313.5  TD/F1 7.5  Tf0.33  Tc 0  Tw (14) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1124  Tc 0.4019  Tw (Id., \266 137.) Tj-12 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (15) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0314  Tc 0.3209  Tw (In the Matter of BellSouth Corporation Pursuant to section 271 of the Communications Act of) Tj-48 -12  TD -0.0955  Tc 0.385  Tw (1934, as amended, to Provide In-Region, InterLATA Services in South Carolina, Memorandum Opinion and) Tj0 -12.75  TD -0.0972  Tc 0.3867  Tw (Order, CC Docket No. 97-208 \266 111 \(Dec. 24, 1997\) \(hereinafter as ) Tj291.75 0  TD /F3 9.75  Tf0.0888  Tc 0.2007  Tw (BellSouth SC) Tj58.5 0  TD /F1 9.75  Tf-0.3536  Tc 0  Tw (\).) Tj-314.25 -21.75  TD /F1 7.5  Tf0.33  Tc (16) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf0.0801  Tc 0.2094  Tw (See, e.g., ) Tj45.75 0  TD /F3 9.75  Tf-0.0232  Tc 0.3127  Tw (Ameritech Michigan) Tj85.5 0  TD /F1 9.75  Tf-0.0866  Tc 0.3761  Tw (, supra note 11, \266\266 172-99.) Tj-143.25 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (17) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F3 9.75  Tf0.0888  Tc 0.2007  Tw (BellSouth SC) Tj58.5 0  TD /F1 9.75  Tf-0.0866  Tc 0.3761  Tw (, supra note 15, \266\266 116-18.) Tj-70.5 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (18) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.122  Tc 0.4115  Tw (Id., \266\266 150-79.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (19) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1124  Tc 0.4019  Tw (Id., \266 151.) Tj-12 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (20) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F3 9.75  Tf-0.0367  Tc 0.3262  Tw (BellSouth LA) Tj57 0  TD /F1 9.75  Tf-0.0682  Tc 0.3577  Tw (, supra note 2, \266 140.) Tj-69 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (21) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1265  Tc 0.416  Tw (Id., \266\266 141 and 144.) Tj-48 -25.5  TD -0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj396 0  TD /F1 12  Tf0.078  Tc 0  Tw (7) Tj-461.25 633  TD -0.2274  Tc (treatment.) Tj51.75 4.5  TD /F1 7.5  Tf0.33  Tc (14) Tj9 -4.5  TD /F1 12  Tf-0.1712  Tc -0.1648  Tw (  Moreover, the incumbent must provide competitors with the business rules) Tj-60.75 -21  TD -0.158  Tc -0.178  Tw (that are used to operate the systems so as to avoid unfair advantage to the incumbent.) Tj444 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (15) Tj-408 -25.5  TD /F1 12  Tf-0.1665  Tc -0.1695  Tw (Over-reliance on manual treatment of competitor orders has been a frequent) Tj-36 -21.75  TD -0.0918  Tc -0.2442  Tw (problem in these applications.) Tj155.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (16) Tj9 -4.5  TD /F1 12  Tf-0.1421  Tc -0.1939  Tw (  The FCC criticized the BellSouth South Carolina) Tj-164.25 -21.75  TD -0.1649  Tc -0.1711  Tw (application, for example, because of the difference in manual treatment of rejections.  The) Tj0 -21  TD -0.1408  Tc -0.1952  Tw (company provided nearly immediate rejection notices to itself through its computer system) Tj0 -21.75  TD -0.1121  Tc -0.2239  Tw (while it provided facsimile notice to the competitors.  The difference resulted in substantial) Tj0 -21  TD -0.1023  Tc -0.2337  Tw (delays in the notices provided to competitors.) Tj234 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (17) Tj9 -4.5  TD /F1 12  Tf-0.1406  Tc -0.1954  Tw (  Pre-ordering functions were similarly) Tj-243 -21.75  TD -0.1317  Tc -0.2043  Tw (affected by the differences between the computer interface provided to competitors and) Tj0 -21.75  TD -0.1863  Tc -0.1497  Tw (the one the company used.) Tj138.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (18) Tj9 -4.5  TD /F1 12  Tf-0.18  Tc -0.156  Tw (  This problem was further compounded by the company\222s) Tj-147.75 -21  TD -0.1292  Tc -0.2068  Tw (failure to assist the competitors in integrating their software platforms with that of) Tj0 -21.75  TD -0.2196  Tc 0  Tw (BellSouth.) Tj52.5 4.5  TD /F1 7.5  Tf0.33  Tc (19) Tj-16.5 -25.5  TD /F1 12  Tf-0.1557  Tc -0.1803  Tw (Unbundled network elements present a different problem because the applicant) Tj-36 -21.75  TD -0.0894  Tc -0.2466  Tw (does not provide an analogous product to itself.  The FCC requires specific data that) Tj0 -21  TD -0.1385  Tc -0.1975  Tw (these functions are commercially available,) Tj221.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (20) Tj9 -4.5  TD /F1 12  Tf-0.1093  Tc -0.2267  Tw ( including the sale of combinations of) Tj-230.25 -21.75  TD -0.1457  Tc -0.1903  Tw (unbundled network elements and complex orders such as orders including special) Tj0 -21  TD -0.112  Tc -0.224  Tw (directory listings.) Tj87 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (21) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) TjETendstream
-endobj
-41 0 obj
-5008
-endobj
-39 0 obj
-<<
-/Type /Page
-/Parent 30 0 R
-/Resources <<
-/Font <<
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 40 0 R
->>
-endobj
-43 0 obj
-<<
-/Length 44 0 R
->>
-stream
-0 0 0 rg 72 201.75 144.75 1.5 re fBT108 183  TD/F1 7.5  Tf0.33  Tc 0  Tw (22) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1375  Tc 0.427  Tw (Id., \266\266 147-57 and 160.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (23) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.364  Tc 0  Tw (Id.) Tj-12 -22.5  TD /F1 7.5  Tf0.33  Tc (24) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F3 9.75  Tf-0.0232  Tc 0.3127  Tw (Ameritech Michigan) Tj85.5 0  TD /F1 9.75  Tf-0.0914  Tc 0.3809  Tw (, supra note 11, \266 172-99.) Tj-97.5 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (25) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F3 9.75  Tf0.0888  Tc 0.2007  Tw (BellSouth SC) Tj58.5 0  TD /F1 9.75  Tf-0.0835  Tc 0.373  Tw (, supra note 15, \266\266 103 & 180-81.) Tj-106.5 -25.5  TD /F1 12  Tf0.078  Tc 0  Tw (8) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-366.75 633  TD /F1 12  Tf-0.1078  Tc -0.2282  Tw (The FCC has also reviewed repair and maintenance and billing activities to) Tj-36 -21  TD -0.1208  Tc -0.2152  Tw (determine that the competitors are receiving comparable treatment.) Tj348 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (22) Tj9 -4.5  TD /F1 12  Tf-0.029  Tc -0.307  Tw (  Differential) Tj-357 -21.75  TD -0.1422  Tc -0.1937  Tw (response times in repair and maintenance and errors resulting in double billing have) Tj0 -21  TD -0.1507  Tc -0.1853  Tw (resulted in negative findings.) Tj147 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (23) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj-156 -43.5  TD /F3 12  Tf0.1042  Tc -0.4402  Tw (Capacity and Scalability) Tj36 -21.75  TD /F1 12  Tf-0.1759  Tc -0.1601  Tw (Throughout the reviews, the FCC has raised concerns about the capacity and) Tj-36 -22.5  TD -0.1731  Tc -0.0692  Tw (scalability of incumbents\222 OSS support.  In the ) Tj238.5 0  TD /F3 12  Tf0.1309  Tc -0.4669  Tw (Ameritech Michigan) Tj107.25 0  TD /F1 12  Tf-0.2106  Tc -0.1254  Tw ( order, for example, the) Tj-345.75 -21.75  TD -0.1297  Tc -0.2063  Tw (Commission noted serious concerns with the Ameritech system\222s heavy reliance on) Tj0 -21.75  TD -0.1222  Tc -0.2138  Tw (manual order processing because manual treatment would lead to increased backlogs) Tj0 -21  TD -0.063  Tc -0.273  Tw (and difficulties in increased staffing as orders increased.) Tj291.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (24) Tj9 -4.5  TD /F1 12  Tf-0.1649  Tc -0.1711  Tw (  High rejection rates and) Tj-300.75 -21.75  TD -0.1185  Tc -0.2175  Tw (system failures raised similar doubts about the application by BellSouth-South Carolina.) Tj451.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (25) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj-460.5 -21  TD -0.1645  Tc -0.1715  Tw (The Commission took the view that these applications must contain evidence that the) Tj0 -21.75  TD -0.1541  Tc -0.1819  Tw (systems can provide the services that competitors are likely to need, and they must also) Tj0 -21  TD -0.1575  Tc -0.1785  Tw (provide it at current and expected levels.) Tj0 -44.25  TD /F3 12  Tf0.066  Tc -0.402  Tw (Supporting Documentation) Tj36 -21.75  TD /F1 12  Tf-0.14  Tc -0.196  Tw (The final theme often repeated in these orders is the need for reliable data to) Tj-36 -21.75  TD -0.1471  Tc -0.1312  Tw (support the claims that the OSS are providing comparable service.  In the ) Tj379.5 0  TD /F3 12  Tf0.082  Tc 0  Tw (Ameritech) Tj-379.5 -22.5  TD 0.186  Tc (Michigan) Tj49.5 0  TD /F1 12  Tf-0.1304  Tc -0.2056  Tw ( order, for example, the FCC stated that performance measures must be clear) Tj-49.5 -21.75  TD -0.1876  Tc -0.1484  Tw (and explained, that the data must be collected that support the claim whether or not they) Tj0 -21.75  TD -0.1868  Tc -0.1492  Tw (were normally collected by the company, and the performance measures must be) TjETendstream
-endobj
-44 0 obj
-4012
-endobj
-42 0 obj
-<<
-/Type /Page
-/Parent 30 0 R
-/Resources <<
-/Font <<
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 43 0 R
->>
-endobj
-46 0 obj
-<<
-/Length 47 0 R
->>
-stream
-0 0 0 rg 72 318.75 144.75 1.5 re fBT108 301.5  TD/F1 7.5  Tf0.33  Tc 0  Tw (26) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F3 9.75  Tf-0.0232  Tc 0.3127  Tw (Ameritech Michigan) Tj85.5 0  TD /F1 9.75  Tf-0.0866  Tc 0.3761  Tw (, supra note 11, \266\266 204-13.) Tj-97.5 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (27) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1124  Tc 0.4019  Tw (Id., \266 216.) Tj-12 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (28) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F3 9.75  Tf-0.0367  Tc 0.3262  Tw (BellSouth LA) Tj57 0  TD /F1 9.75  Tf-0.0682  Tc 0.3577  Tw (, supra note 2, \266 140.) Tj-69 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (29) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F3 9.75  Tf-0.0232  Tc 0.3127  Tw (Ameritech Michigan) Tj85.5 0  TD /F1 9.75  Tf-0.0739  Tc 0.3634  Tw (, supra note 11, \266 161.) Tj-97.5 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (30) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.122  Tc 0.4115  Tw (Id., \266\266 164-71.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (31) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F3 9.75  Tf0.0888  Tc 0.2007  Tw (BellSouth SC) Tj58.5 0  TD /F1 9.75  Tf-0.0739  Tc 0.3634  Tw (, supra note 15, \266 137.) Tj-70.5 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (32) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.122  Tc 0.4115  Tw (Id., \266\266 134-37.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (33) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.3498  Tc -0.1108  Tw (The ) Tj18.75 0  TD /F3 9.75  Tf-0.0208  Tc 0.3103  Tw (BellSouth-Second Louisiana) Tj122.25 0  TD /F1 9.75  Tf-0.0158  Tc 0.3053  Tw ( order contains several examples such as substantially longer) Tj-189 -12.75  TD -0.05  Tc 0.3395  Tw (times to effect repairs and higher repeat complaints for repairs. ) Tj273.75 0  TD /F3 9.75  Tf-0.0367  Tc 0.3262  Tw (BellSouth LA) Tj57 0  TD /F1 9.75  Tf-0.0682  Tc 0.3577  Tw (, supra note 2, \266 147.) Tj-330.75 -24.75  TD -0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj396 0  TD /F1 12  Tf0.078  Tc 0  Tw (9) Tj-461.25 633  TD 0.0173  Tc (specific.) Tj43.5 4.5  TD /F1 7.5  Tf0.33  Tc (26) Tj9 -4.5  TD /F1 12  Tf-0.1455  Tc -0.1905  Tw (  To that end, the FCC encouraged independent third-party review as a source) Tj-52.5 -21  TD -0.1569  Tc -0.1791  Tw (of information.) Tj73.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (27) Tj9 -4.5  TD /F1 12  Tf-0.1953  Tc -0.1407  Tw (  In a subsequent case, the FCC has further encouraged the use of testing) Tj-82.5 -21.75  TD -0.176  Tc -0.16  Tw (in those instances in which there is little or no commercial activity, e.g. unbundled network) Tj0 -21  TD -0.102  Tc -0.234  Tw (element provisioning.) Tj110.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (28) Tj9 -4.5  TD /F1 12  Tf-0.1634  Tc -0.1726  Tw (  In contrast, internal testing to support an assertion of readiness) Tj-119.25 -21.75  TD -0.1726  Tc -0.1634  Tw (has been given little weight.) Tj141.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (29) Tj-105.75 -25.5  TD /F1 12  Tf-0.126  Tc -0.21  Tw (Resale installation rates, probably because of their immediate importance, have) Tj-36 -22.5  TD -0.1666  Tc -0.0444  Tw (received special attention.  In the ) Tj171.75 0  TD /F3 12  Tf0.1309  Tc -0.4669  Tw (Ameritech Michigan) Tj107.25 0  TD /F1 12  Tf-0.0424  Tc -0.2936  Tw ( decision, the FCC stated that it) Tj-279 -21.75  TD -0.1564  Tc -0.1796  Tw (would look for the company\222s demonstration that average installation times for resale) Tj0 -22.5  TD -0.1014  Tc -0.2346  Tw (provisioning were comparable with the company\222s retail provisioning.) Tj355.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (30) Tj9 -4.5  TD /F1 12  Tf-0.5376  Tc 0.3891  Tw (  In the ) Tj36 0  TD /F3 12  Tf0.0433  Tc 0  Tw (BellSouth) Tj-400.5 -22.5  TD 0.0937  Tc -0.4297  Tw (South Carolina) Tj80.25 0  TD /F1 12  Tf-0.1778  Tc -0.1582  Tw ( order, the FCC went on to state that the time should be measured from the) Tj-80.25 -21.75  TD -0.1247  Tc -0.2113  Tw (receipt of the order to installation.) Tj171.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (31) Tj9 -4.5  TD /F1 12  Tf-0.2065  Tc -0.1295  Tw (  Attempts to circumvent this measurement by showing) Tj-180.75 -21  TD -0.1465  Tc -0.1895  Tw (the number of orders completed within a certain amount of time were rejected as a) Tj0 -21.75  TD -0.0456  Tc -0.2904  Tw (possible mask for discrimination.) Tj171 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (32) Tj-135 -24.75  TD /F1 12  Tf-0.1263  Tc -0.2097  Tw (There has not as yet been discussion of the appropriate statistical tests to) Tj-36 -22.5  TD -0.1117  Tc -0.2243  Tw (differentiate real and spurious differences in performance in the section 271 cases.  This) Tj0 -21  TD -0.155  Tc -0.181  Tw (is likely because the differences that have been identified have been clearly and) Tj0 -21.75  TD -0.205  Tc -0.131  Tw (substantially different.) Tj111 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (33) Tj9 -4.5  TD /F1 12  Tf-0.1191  Tc -0.2169  Tw (  Thus, BellSouth\222s second Louisiana application faced a) Tj-120 -21.75  TD -0.0831  Tc -0.2529  Tw (significant barrier when its own data reported electronic processing of its orders of 82) TjETendstream
-endobj
-47 0 obj
-5436
-endobj
-45 0 obj
-<<
-/Type /Page
-/Parent 30 0 R
-/Resources <<
-/Font <<
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 46 0 R
->>
-endobj
-50 0 obj
-<<
-/Length 51 0 R
->>
-stream
-0 0 0 rg 72 225.75 144.75 1.5 re fBT108 207  TD/F1 7.5  Tf0.33  Tc 0  Tw (34) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1124  Tc 0.4019  Tw (Id., \266 109.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (35) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1124  Tc 0.4019  Tw (Id., \266 118.) Tj-12 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (36) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.011  Tc 0.3005  Tw (E.g., id., \266\266 122-23, 130, & 133.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (37) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0822  Tc 0.3717  Tw (Petition of New York Tel. Co. For Approval of its Statement of Generally Available Terms and) Tj-48 -12.75  TD -0.0689  Tc 0.3584  Tw (Conditions and Draft Filing of Petition for InterLATA Entry, Ruling Concerning Status of Record, Case No.) Tj0 -12  TD -0.1552  Tc 0.4447  Tw (97-C-0271 \(July 8, 1997\).) Tj0 -24.75  TD /F1 12  Tf0.078  Tc 0  Tw (10) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-402.75 633  TD /F1 12  Tf-0.1126  Tc -0.2234  Tw (percent to 96 percent and those of competitors at 34 percent.) Tj315.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (34) Tj9 -4.5  TD /F1 12  Tf-0.0966  Tc -0.2394  Tw (  Similarly, the FCC was) Tj-324.75 -21  TD -0.1309  Tc -0.2051  Tw (not impressed that 80 percent of rejection notices for competitors had to be manually) Tj0 -21.75  TD -0.1765  Tc -0.1595  Tw (keyed before they were sent.) Tj148.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (35) Tj-112.5 -24.75  TD /F1 12  Tf-0.1476  Tc -0.1884  Tw (The greater problem, however, is the incomplete nature of many applications.  Each) Tj-36 -22.5  TD -0.1235  Tc -0.2125  Tw (of the orders discusses the need for the company to demonstrate that it is prepared) Tj0 -21  TD -0.1014  Tc -0.2346  Tw (through historic performance or studies, and not promises or post-application) Tj0 -21.75  TD -0.1047  Tc -0.2313  Tw (improvements.  The applications have been criticized for being incomplete.) Tj386.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (36) Tj-230.25 -49.5  TD /F0 14.25  Tf0.2209  Tc -0.4324  Tw (New York OSS Testing) Tj-156 -45  TD /F0 12  Tf0.0846  Tc -0.4206  Tw (Background of New York OSS Review) Tj36 -21.75  TD /F1 12  Tf-0.1822  Tc -0.1538  Tw (In February 1997, New York Telephone Co. \(subsequently Bell Atlantic or BA\) filed) Tj-36 -22.5  TD -0.1102  Tc -0.2258  Tw (with the New York Public Service Commission a request that it support BA's section 271) Tj0 -21  TD -0.0838  Tc -0.2522  Tw (application.  The CLECs opposed the application, arguing that BA was not in compliance) Tj0 -21.75  TD -0.1647  Tc -0.1713  Tw (with the requirements of section 271.  In July 1997, an administrative law judge agreed with) Tj0 -21  TD -0.1056  Tc -0.2304  Tw (the CLECs and concluded that BA failed to demonstrate that it complied with several of) Tj0 -21.75  TD -0.1246  Tc -0.2114  Tw (the fourteen checklist items and failed in particular to demonstrate that its operational) Tj0 -21  TD -0.145  Tc -0.191  Tw (support systems for itself and competitors were in parity.) Tj290.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (37) Tj9 -4.5  TD /F1 12  Tf-0.1611  Tc -0.1749  Tw (  BA later that year filed a) Tj-299.25 -21.75  TD -0.2046  Tc -0.1314  Tw (supplemental petition in response to the failures identified in the July entry.  In the) Tj0 -21.75  TD -0.0937  Tc -0.2423  Tw (meantime, the parties began a collaboration to address OSS issues.  An administrative) Tj0 -21  TD -0.1283  Tc -0.2077  Tw (law judge in December 1997 recommended the continuation of the collaboration.) TjETendstream
-endobj
-51 0 obj
-3818
-endobj
-48 0 obj
-<<
-/Type /Page
-/Parent 49 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 50 0 R
->>
-endobj
-53 0 obj
-<<
-/Length 54 0 R
->>
-stream
-0 0 0 rg 72 187.5 144.75 1.5 re fBT108 169.5  TD/F1 7.5  Tf0.33  Tc 0  Tw (38) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0259  Tc 0.3154  Tw (Id., Pre-Filing Statement of Bell Atlantic-New York \(Apr. 6, 1998\).) Tj-12 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (39) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0383  Tc 0.3278  Tw (The requests for proposals and BA\222s commitments are found on the New York Public Service) Tj-48 -12  TD 0.0435  Tc 0.246  Tw (web page. See http://www.dps.state.ny.us/tel271.htm.) Tj36 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (40) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1145  Tc 0.404  Tw (CTTG Project Report, Nov. 2, 1998, at p. 2-1.) Tj-48 -25.5  TD -0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj389.25 0  TD /F1 12  Tf0.078  Tc 0  Tw (11) Tj-418.5 633  TD -0.0857  Tc -0.2503  Tw (BA entered three commitments concerning OSS in April 1998.) Tj321.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (38) Tj9 -4.5  TD /F1 12  Tf-0.0799  Tc -0.2561  Tw (  First, it agreed to) Tj-366.75 -21  TD -0.0834  Tc -0.2526  Tw (several performance standards for its OSS.  Second, it agreed to participate in third-party) Tj0 -21.75  TD -0.1433  Tc -0.1927  Tw (testing.  Finally, it agreed to post-entry audits to assure that it continued to meet) Tj0 -21  TD -0.1299  Tc -0.2061  Tw (performance standards as volumes of orders increased.  In anticipation of these) Tj0 -21.75  TD -0.1111  Tc -0.2249  Tw (commitments, the commission issued a request for proposals for testing and test) Tj0 -21  TD -0.149  Tc -0.187  Tw (evaluation on March 6, 1998.  Subsequently, on May 15, 1998, it issued a second request) Tj0 -21.75  TD -0.1329  Tc -0.2031  Tw (for proposals for a vendor to construct interface software.) Tj293.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (39) Tj9 -4.5  TD /F1 12  Tf-0.1879  Tc -0.1481  Tw (  KPMG won the March request) Tj-302.25 -21  TD -0.155  Tc -0.181  Tw (for proposals for test design and evaluation, and Hewlett Packard successfully bid for the) Tj0 -21.75  TD -0.1162  Tc -0.2198  Tw (creation of the software.) Tj0 -42.75  TD /F0 12  Tf0.0163  Tc -0.3523  Tw (Overview of the New York Approach) Tj36 -21.75  TD /F1 12  Tf-0.1805  Tc -0.1555  Tw (The New York test addresses several concerns.  First, it measures the quality of the) Tj-36 -22.5  TD -0.1368  Tc -0.1415  Tw (documentation and other support provided to CLECs for the construction of an interface ) Tj0 -21  TD -0.1579  Tc -0.1781  Tw (Second, it measures the functionality and capacity of the BA OSS.  Third, it measures the) Tj0 -21.75  TD -0.1523  Tc -0.1837  Tw (commitment of BA to the wholesalers with whom it is both vendor and competitor.) Tj0 -42.75  TD /F0 12  Tf0.0647  Tc -0.4007  Tw (The Virtual CLEC) Tj36 -22.5  TD /F1 12  Tf-0.1322  Tc -0.2038  Tw (The first aspect of the test was to determine if the materials prepared by BA would) Tj-36 -21  TD -0.1397  Tc -0.1963  Tw (allow a CLEC to prepare a software interface that would work with the BA systems.  HP) Tj0 -21.75  TD -0.1528  Tc -0.1832  Tw (contracted to create a CLEC Test Transaction Generator \(CTTG\).  The CTTG was) TjT* -0.052  Tc -0.284  Tw (designed based on materials provided by BA and available to all CLECs.) Tj378.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (40) Tj9 -4.5  TD /F1 12  Tf-0.0673  Tc -0.2687  Tw (  To prepare) Tj-387.75 -21  TD -0.1295  Tc -0.2065  Tw (the product, HP identified a five-step process that a CLEC would have to undertake to) Tj0 -21.75  TD -0.1357  Tc -0.2003  Tw (connect to the BA OSS.  These steps included receipt of state regulatory approval,) Tj0 -21  TD -0.1473  Tc -0.1887  Tw (establishment of a business relationship with BA, establishment of interconnection with) TjETendstream
-endobj
-54 0 obj
-3927
-endobj
-52 0 obj
-<<
-/Type /Page
-/Parent 49 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 53 0 R
->>
-endobj
-56 0 obj
-<<
-/Length 57 0 R
->>
-stream
-0 0 0 rg 72 228 144.75 1.5 re fBT108 210  TD/F1 7.5  Tf0.33  Tc 0  Tw (41) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1583  Tc 0.4478  Tw (Id. at 2-5 and 2-6.) Tj-12 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (42) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0396  Tc 0.3291  Tw (KPMG, Bell Atlantic OSS Evaluation Project: Final Report \(Draft\) \(June 1, 1999\).) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (43) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0171  Tc 0.3066  Tw (Id., Part III contains a summary of the tests and their June 1, 1999 status.) Tj-12 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (44) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.2023  Tc 0.4918  Tw (Id. at II-3.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (45) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.2023  Tc 0.4918  Tw (Id. at II-2.) Tj-48 -25.5  TD /F1 12  Tf0.078  Tc 0  Tw (12) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-402.75 633  TD /F1 12  Tf-0.1205  Tc -0.2155  Tw (BA, and the preparation of orders.  The major portion of HP\222s work focused on preparing) Tj0 -21  TD -0.1784  Tc -0.1576  Tw (the software for the last item.) Tj147.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (41) Tj9 -4.5  TD /F1 12  Tf-0.1846  Tc -0.1514  Tw (  The software, or virtual CLEC, was then used as part of the) Tj-156.75 -21.75  TD 0.0396  Tc -0.3756  Tw (KPMG\222s test of BA\222s OSS.) Tj0 -42.75  TD /F0 12  Tf0.0234  Tc -0.3594  Tw (OSS Testing) Tj36 -22.5  TD /F1 12  Tf-0.3516  Tc 0.0156  Tw (In its ) Tj26.25 0  TD /F3 12  Tf0.03  Tc -0.366  Tw (Draft Final Report) Tj94.5 0  TD /F1 12  Tf-0.1494  Tc -0.1866  Tw ( on June 1, 1999, KPMG outlined the structure and details of) Tj-156.75 -22.5  TD -0.0758  Tc -0.2602  Tw (the OSS testing it performed.) Tj150.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (42) Tj9 -4.5  TD /F1 12  Tf-0.16  Tc -0.176  Tw (  Following a master test plan dated July 31, 1998, the) Tj-159.75 -21  TD -0.1329  Tc -0.2031  Tw (evaluation was designed to test the ability of BA to provide resale and unbundled) Tj0 -21.75  TD -0.1967  Tc 0  Tw (elements.) Tj36 -21.75  TD -0.1618  Tc -0.1742  Tw (The test was arranged into four \223domains.\224) Tj218.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (43) Tj9 -4.5  TD /F1 12  Tf-0.1253  Tc -0.2107  Tw (  These domains included \(1\) pre-) Tj-263.25 -21  TD -0.1306  Tc -0.2054  Tw (ordering, ordering, and provisioning; \(2\) maintenance and repair; \(3\) billing; and) Tj0 -21.75  TD -0.1495  Tc -0.1865  Tw (\(4\) relationship management.) Tj151.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (44) Tj9 -4.5  TD /F1 12  Tf-0.1564  Tc -0.1796  Tw (  Within these domains, the tests attempted to simulate) Tj-160.5 -21  TD -0.1468  Tc -0.1892  Tw (transactions the tester expected CLECs to present to BA, with the focus on the exchange) Tj0 -21.75  TD -0.1213  Tc -0.2147  Tw (of data.  In addition, the review included monitoring of \223live\224 transactions of CLEC activities) Tj0 -21  TD -0.1726  Tc -0.1634  Tw (with BA.  It also included operational reviews of the procedures, structures, and) Tj0 -21.75  TD -0.1402  Tc -0.1958  Tw (documentation that BA had in place to service CLEC wholesale transactions.  Thus,) Tj0 -21  TD -0.1661  Tc -0.1699  Tw (although the emphasis of the tests was on electronic data interchange, the test also) Tj0 -21.75  TD -0.1264  Tc -0.2096  Tw (addressed documentation and reviewed the ability of BA to scale the systems to) TjT* -0.0289  Tc -0.3071  Tw (increased demand.) Tj100.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (45) TjETendstream
-endobj
-57 0 obj
-3804
-endobj
-55 0 obj
-<<
-/Type /Page
-/Parent 49 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 56 0 R
->>
-endobj
-59 0 obj
-<<
-/Length 60 0 R
->>
-stream
-0 0 0 rg 72 149.25 144.75 1.5 re fBT108 130.5  TD/F1 7.5  Tf0.33  Tc 0  Tw (46) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.2023  Tc 0.4918  Tw (Id. at II-5.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (47) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.2279  Tc 0.5174  Tw (Id. at II-6 and II-7.) Tj-48 -25.5  TD -0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj389.25 0  TD /F1 12  Tf0.078  Tc 0  Tw (13) Tj-418.5 633  TD -0.1692  Tc -0.1668  Tw (One concern with the test was that transactions with the tester would be biased by) Tj-36 -21  TD -0.1286  Tc -0.2074  Tw (BA.  As a result, several procedures were adopted to validate the results.  According to the) Tj0 -21.75  TD -0.1588  Tc -0.1772  Tw (final draft report:) Tj72 -35.25  TD -0.1359  Tc -0.2001  Tw (To partially offset this lack of blindness, we instituted certain) Tj0 -14.25  TD -0.1619  Tc -0.1741  Tw (procedures to help ensure that KPMG and HP would not) TjT* -0.19  Tc -0.146  Tw (receive treatment from BA-NY that was obviously different from) TjT* -0.0991  Tc -0.2369  Tw (that received by a real CLEC.  For example, we required that) TjT* -0.1448  Tc -0.1912  Tw (all documents given to us be generally available to all CLECs. ) TjT* -0.1147  Tc -0.2213  Tw (The PSC monitored telephone calls and face-to-face meetings) TjT* -0.1323  Tc -0.2037  Tw (between KPMG/HP and BA-NY.  CLECs were invited to) Tj0 -15  TD -0.1829  Tc -0.1531  Tw (attend conference calls.  In addition, we made concurrent) Tj0 -14.25  TD -0.1095  Tc -0.2265  Tw (observations of the service quality delivered to other CLECs) TjT* -0.2014  Tc -0.1346  Tw (during the course of our test, and compared that with the) TjT* -0.1214  Tc -0.2146  Tw (quality of the service we received.) Tj174 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (46) Tj-210 -39.75  TD /F1 12  Tf-0.1367  Tc -0.1993  Tw (Another problem the tester had to address was the creation of a set of accounts. ) Tj-36 -21.75  TD -0.097  Tc -0.239  Tw (To solve this problem, BA was required to provide a test bed of accounts from across its) Tj0 -21  TD -0.1448  Tc -0.1912  Tw (service territory.  Due to scarcity of resources in central offices, however, some accounts) Tj0 -21.75  TD -0.148  Tc -0.188  Tw (had to be used for multiple tests, apparently slowing the testing process.) Tj370.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (47) Tj-370.5 -47.25  TD /F0 12  Tf0.0463  Tc (Domains) Tj36 -21.75  TD /F1 12  Tf-0.1078  Tc -0.2282  Tw (As noted previously, the test was divided into four areas or domains.  Each domain) Tj-36 -22.5  TD -0.1484  Tc -0.1876  Tw (contained several components that were further broken down into specific measures or) Tj0 -21  TD -0.1366  Tc -0.1994  Tw (factors to be studied.  The materials in the accompanying CD-ROM contain excerpts from) Tj0 -21.75  TD -0.2245  Tc -0.1115  Tw (Chapter III of the final report which explain the various tests.  Subsequent chapters in the) Tj0 -21  TD -0.1105  Tc -0.2255  Tw (report provide the details of each test.) TjETendstream
-endobj
-60 0 obj
-3182
-endobj
-58 0 obj
-<<
-/Type /Page
-/Parent 49 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 59 0 R
->>
-endobj
-62 0 obj
-<<
-/Length 63 0 R
->>
-stream
-0 0 0 rg 72 187.5 144.75 1.5 re fBT108 169.5  TD/F1 7.5  Tf0.33  Tc 0  Tw (48) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.2023  Tc 0.4918  Tw (Id. at II-4.) Tj-12 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (49) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.2023  Tc 0.4918  Tw (Id. at II-6.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (50) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0548  Tc 0.3443  Tw (This material supporting this paragraph is found in the Texas web page concerning the SWB) Tj-48 -12.75  TD 0.0651  Tc 0.2244  Tw (section 271 application.  See http://www.puc.state.tx.us.) Tj0 -24.75  TD /F1 12  Tf0.078  Tc 0  Tw (14) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-402.75 633  TD /F0 12  Tf0.0405  Tc -0.3765  Tw (Testing Standards) Tj36 -22.5  TD /F1 12  Tf-0.1627  Tc -0.1733  Tw (Initially, the tests were set up to determine whether BA was in compliance with OSS) Tj-36 -21  TD -0.1208  Tc -0.2152  Tw (standards at a particular point in time.  During the testing process, however, the scope of) Tj0 -21.75  TD -0.1389  Tc -0.1971  Tw (KPMG\222s assignment was changed.  By agreement, a \223test until you pass\224 approach was) Tj0 -21  TD -0.1325  Tc -0.2035  Tw (adopted.  Thus, as KPMG determined that items were not in compliance with standards for) Tj0 -21.75  TD -0.1414  Tc -0.1946  Tw (OSS approval, it would issue an exception and BA would then seek to address the) Tj0 -21  TD -0.161  Tc -0.175  Tw (exception.  The revised approach substantially lengthened the testing process.) Tj402.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (48) Tj-366.75 -25.5  TD /F1 12  Tf-0.1219  Tc -0.2141  Tw (In addition to the parity and commercial viability tests articulated by the FCC,) Tj-36 -21.75  TD -0.0734  Tc -0.2626  Tw (KPMG also looked at standards drawn from Public Service Commission carrier-to-carrier) Tj0 -21.75  TD -0.1357  Tc -0.2003  Tw (requirements and its own professional judgment concerning OSS.) Tj338.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (49) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw (  ) Tj-231 -45  TD /F0 14.25  Tf0.317  Tc -0.5285  Tw (The Texas OSS Testing Approach) Tj-116.25 -45  TD /F0 12  Tf0.0696  Tc -0.4056  Tw (Background of Texas OSS Testing) Tj36 -22.5  TD /F1 12  Tf-0.1265  Tc -0.2095  Tw (In March 1998, SWB filed an application for section 271 relief in Texas.  Following) Tj-36 -21.75  TD -0.1526  Tc -0.1834  Tw (hearings, the Texas Public Utility Commission refused to grant the requested findings and) Tj0 -21  TD -0.0931  Tc -0.2429  Tw (determined that 130 open issues remained in the SWB application.  A collaborative) Tj0 -21.75  TD -0.1299  Tc -0.2061  Tw (process that included the competitors, SWB, and the Texas commission staff began a) Tj0 -21  TD -0.1312  Tc -0.2048  Tw (detailed review that resulted in a set of recommendations for the open issues in November) Tj0 -21.75  TD -0.1264  Tc -0.2096  Tw (1998.  Based on the commitments made to the collaborative for resolution of those) TjT* -0.1251  Tc -0.2109  Tw (recommendations, the Texas commission in April 1999 conditionally agreed to support the) Tj0 -21  TD -0.1306  Tc -0.2054  Tw (SWB request for relief to the FCC if OSS testing were successfully completed and the) Tj0 -21.75  TD -0.1423  Tc -0.1937  Tw (company completed a three months\222 demonstration of actual performance.) Tj383.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (50) TjETendstream
-endobj
-63 0 obj
-3623
-endobj
-61 0 obj
-<<
-/Type /Page
-/Parent 49 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 62 0 R
->>
-endobj
-65 0 obj
-<<
-/Length 66 0 R
->>
-stream
-0 0 0 rg 72 187.5 144.75 1.5 re fBT108 169.5  TD/F1 7.5  Tf0.33  Tc 0  Tw (51) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0552  Tc 0.3447  Tw (See file in attached CD-ROM.) Tj-12 -22.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (52) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0649  Tc 0.3544  Tw (Project No. 20000 Investigation of Southwestern Bell Telephone Company\222s Entry into the Texas) Tj-48 -12  TD -0.0483  Tc 0.3378  Tw (inter Local Area Transport Area Telecommunications Market, Master Test Plan at 5-16 \(Apr. 1999\).) Tj36 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (53) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1468  Tc 0.4363  Tw (Id. at 17-29.) Tj-48 -25.5  TD -0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj389.25 0  TD /F1 12  Tf0.078  Tc 0  Tw (15) Tj-418.5 633  TD -0.0921  Tc -0.2439  Tw (The Texas commission initially identified 29 OSS recommendations to be) Tj-36 -21  TD 0.0252  Tc -0.3612  Tw (addressed by SWB.) Tj105 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (51) Tj9 -4.5  TD /F1 12  Tf-0.1367  Tc -0.1993  Tw (  The first provided that OSS issues would be decided through a) Tj-114 -21.75  TD -0.17  Tc -0.166  Tw (collaborative process.  The others detailed the desired level of functionality, flow through,) Tj0 -21  TD -0.1186  Tc -0.2174  Tw (appropriate documentation and training, capacity to handle commercial volumes at) Tj0 -21.75  TD -0.1096  Tc -0.2264  Tw (standards that demonstrated parity and lack of discrimination.  The Commission also) Tj0 -21  TD -0.1748  Tc -0.1612  Tw (required that it be assured that SWB handled manual orders at parity as well.  Much of the) Tj0 -21.75  TD -0.0963  Tc -0.2397  Tw (work was left to the OSS testing encompassed in what has become Project 20000.) Tj0 -42.75  TD /F0 12  Tf0.0352  Tc -0.3712  Tw (The Texas Master Test Plan: Overview) Tj36 -22.5  TD /F1 12  Tf-0.1478  Tc -0.1882  Tw (As a result of the collaborative efforts and with the assistance of Telcordia, the third-) Tj-36 -21.75  TD -0.1318  Tc -0.2042  Tw (party contractor used by the Texas commission, the parties developed a Master Test Plan) Tj0 -21  TD -0.1243  Tc -0.2117  Tw (for OSS testing.  The testing plan generally provides for two different activities.  First, it) Tj0 -21.75  TD -0.1399  Tc -0.1961  Tw (provides for function tests of the various OSS components.  Second, it provides for a) Tj0 -21  TD -0.1475  Tc -0.1885  Tw (capacity test of the computing systems\222 ability to handle normal and growing numbers of) Tj0 -21.75  TD -0.1945  Tc -0.1415  Tw (information requests and related processing.  In contrast to the New York CTTG, the Texas) Tj0 -21  TD -0.1267  Tc -0.2092  Tw (test took place in the working environments of SWB and used the assistance of about 600) Tj0 -21.75  TD -0.1086  Tc -0.2274  Tw (\223friendlies,\224 employees of the parties who agree to participate in the test.) Tj372.75 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (52) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj-345.75 -21  TD -0.1599  Tc -0.1761  Tw (The Texas commission, SWB, the larger competitors including AT&T, MCI,) Tj-36 -21.75  TD -0.1299  Tc -0.2061  Tw (Allegiance, NorthPoint, and Covad are participants in the testing.  The test administrator,) Tj0 -21.75  TD -0.1362  Tc -0.1998  Tw (Telcordia, collected and analyzed the results of the test and assisted in the preparation of) Tj0 -21  TD -0.1384  Tc -0.1976  Tw (a final report to the commission.  Daily reporting was required throughout the testing.) Tj433.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (53) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj-442.5 -21.75  TD -0.1066  Tc -0.2294  Tw (The success of the test is to be measured against agreed-to performance standards that) Tj0 -21  TD -0.1338  Tc -0.2022  Tw (resulted from the collaborative process.) TjETendstream
-endobj
-66 0 obj
-3985
-endobj
-64 0 obj
-<<
-/Type /Page
-/Parent 49 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 65 0 R
->>
-endobj
-69 0 obj
-<<
-/Length 70 0 R
->>
-stream
-0 0 0 rg 72 123 144.75 1.5 re fBT108 105  TD/F1 7.5  Tf0.33  Tc 0  Tw (54) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1468  Tc 0.4363  Tw (Id. at 34-46.) Tj-48 -25.5  TD /F1 12  Tf0.078  Tc 0  Tw (16) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-402.75 633  TD /F0 12  Tf0.0092  Tc -0.3452  Tw (Functional Testing) Tj36 -22.5  TD /F1 12  Tf-0.1351  Tc -0.2009  Tw (The functional tests are designed to determine if certain features are available to) Tj-36 -21  TD -0.0962  Tc -0.2398  Tw (the competitors through the SWB OSS.  Several categories of business and residential) Tj0 -21.75  TD -0.1157  Tc -0.2203  Tw (service were tested: resale, UNE-Port, UNE-Loop, and Number Portability.  Some error) Tj0 -21  TD -0.1418  Tc -0.1942  Tw (testing \(i.e., the insertion of intentional errors in the individual scripts used for testing\) was) Tj0 -21.75  TD -0.1573  Tc -0.1787  Tw (also included to test the ability of the system to handle problems.  The administrator) Tj0 -21  TD -0.1632  Tc -0.1727  Tw (evaluated the results of the tests to determine if relevant performance measures are) Tj0 -21.75  TD 0.0648  Tc 0  Tw (satisfied.) Tj36 -20.25  TD -0.1454  Tc -0.1906  Tw (The large number of test scenarios, 602 at the time the document was published,) Tj-36 -22.5  TD -0.1295  Tc -0.2065  Tw (resulted from the number of categories and combinations that were possible.  Tests were) Tj0 -21.75  TD -0.1452  Tc -0.1908  Tw (to be run for business and residential services over each of the categories of entry and) Tj0 -21  TD -0.1443  Tc -0.1917  Tw (based on several order types such as retail to resale, resale to UNE-Port without and with) Tj0 -21.75  TD -0.1701  Tc -0.1659  Tw (number portability, moves, disconnections, and feature changes.  There are also various) Tj0 -21  TD -0.1106  Tc -0.2254  Tw (scenarios for changes in directory listings.) Tj36 -21  TD -0.1571  Tc -0.1789  Tw (The testing related to each of the functions.  Pre-order functions being tested) Tj-36 -21.75  TD -0.1135  Tc -0.2225  Tw (included address validation, customer service record checks, service and feature) Tj0 -21.75  TD -0.1469  Tc -0.1891  Tw (availability, number reservation and return, date of service availability, switching codes,) Tj0 -21  TD -0.0941  Tc -0.2419  Tw (dispatch, and loop qualifications. ) Tj36 -21  TD -0.1085  Tc -0.2275  Tw (Order processing, provisioning, billing, and maintenance and repair were reviewed) Tj-36 -22.5  TD -0.1144  Tc -0.2216  Tw (as well.  The order testing addressed the system\222s ability to receive and acknowledge) Tj0 -21  TD -0.1189  Tc -0.2171  Tw (orders, create service orders, reject non-complying requests, and create a firm order) Tj0 -21.75  TD -0.0867  Tc -0.2493  Tw (confirmation.  Provisioning addressed service order completion and the jeopardy) Tj0 -21  TD -0.1017  Tc -0.2343  Tw (\(requested services not provided by due date\) processing.  Billing addressed whether) Tj0 -21.75  TD -0.1302  Tc -0.2058  Tw (billing is accurate and the same quality as provided to SWB customers.  Maintenance and) Tj0 -21  TD -0.1374  Tc -0.1986  Tw (repair testing assessed both planned and unplanned problems and the company\222s) Tj0 -21.75  TD -0.13  Tc 0  Tw (responsiveness.) Tj84.75 4.5  TD /F1 7.5  Tf0.33  Tc (54) TjETendstream
-endobj
-70 0 obj
-3473
-endobj
-67 0 obj
-<<
-/Type /Page
-/Parent 68 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 69 0 R
->>
-endobj
-72 0 obj
-<<
-/Length 73 0 R
->>
-stream
-BT72 75  TD0 0 0 rg /F1 9.75  Tf-0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj389.25 0  TD /F1 12  Tf0.078  Tc 0  Tw (17) TjETendstream
-endobj
-73 0 obj
-234
-endobj
-71 0 obj
-<<
-/Type /Page
-/Parent 68 0 R
-/Resources <<
-/Font <<
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 72 0 R
->>
-endobj
-75 0 obj
-<<
-/Length 76 0 R
->>
-stream
-0 0 0 rg 72 149.25 144.75 1.5 re fBT108 130.5  TD/F1 7.5  Tf0.33  Tc 0  Tw (55) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1468  Tc 0.4363  Tw (Id. at 48-50.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (56) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf0.0157  Tc 0.2738  Tw (Id., Attachment 3.) Tj-48 -25.5  TD /F1 12  Tf0.078  Tc 0  Tw (18) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-402.75 633  TD /F0 12  Tf0.0208  Tc -0.3568  Tw (Capacity Testing) Tj36 -22.5  TD /F1 12  Tf-0.164  Tc -0.172  Tw (The capacity testing measured the ability of the SWB computer system to handle) Tj-36 -21  TD -0.1009  Tc -0.2351  Tw (the expanded load created by the competitors.  The estimate for loads was based on) Tj0 -21.75  TD -0.1158  Tc -0.2202  Tw (competitor projections for the first quarter of 2000.  Based on these forecasts, testing) Tj0 -21  TD -0.0673  Tc -0.2687  Tw (simulated 8,000 orders and 40,960 pre-order queries a day.  Because most competitors) Tj0 -21.75  TD -0.1542  Tc -0.1818  Tw (are expected to have computer systems capable of working with the SWB systems, no) Tj0 -21  TD -0.1514  Tc -0.1846  Tw (capacity testing of manual systems was being done.  Further, the capacity tests were) Tj0 -21.75  TD -0.038  Tc -0.298  Tw (limited to pre-order and order capabilities. ) Tj36 -20.25  TD -0.1439  Tc -0.1921  Tw (The system must also demonstrate scalability, the ability to grow with competitors\222) Tj-36 -22.5  TD -0.1727  Tc -0.1633  Tw (business growth.  Testing would assess whether the system can handle an additional ten) Tj0 -21.75  TD -0.1375  Tc -0.1985  Tw (percent in daily ordering.  As in the functional testing, some orders had within them a basis) Tj0 -21  TD -0.1304  Tc -0.2056  Tw (for rejection so as to simulate normal production demands.) Tj302.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (55) Tj-302.25 -47.25  TD /F0 12  Tf0.0357  Tc -0.3717  Tw (Performance Standards) Tj36 -22.5  TD /F1 12  Tf-0.1257  Tc -0.2103  Tw (Performance standards or benchmarks were agreed to as part of the testing and) Tj-36 -21.75  TD -0.1184  Tc -0.2176  Tw (review process.  \(Additionally, the agreement contains performance penalties if SWB fails) Tj0 -21  TD -0.1716  Tc -0.1644  Tw (to perform at adequate levels.\)  In those instances where they are applicable, the test) Tj0 -21.75  TD -0.1231  Tc -0.2129  Tw (administrator used them as the basis for determining the success of the testing.  For) Tj0 -21  TD -0.1625  Tc -0.1735  Tw (functional testing, the administrator would have to determine that the performance is in) Tj0 -21.75  TD -0.1566  Tc -0.1794  Tw (parity or meets a benchmark and the test results were stable.  In the case of the capacity) TjT* -0.1725  Tc -0.1635  Tw (test, the benchmarks were relevant in a few cases, but the more common measure was) Tj0 -21  TD -0.2049  Tc -0.1311  Tw (whether the system handled the test load and whether the test caused a system or) Tj0 -21.75  TD -0.1722  Tc -0.1638  Tw (application failure.  It is important to note, however, that not all performance measures) Tj0 -21  TD -0.0988  Tc -0.2372  Tw (were to be tested by these activities.) Tj188.25 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (56) TjETendstream
-endobj
-76 0 obj
-3399
-endobj
-74 0 obj
-<<
-/Type /Page
-/Parent 68 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 75 0 R
->>
-endobj
-78 0 obj
-<<
-/Length 79 0 R
->>
-stream
-0 0 0 rg 72 161.25 144.75 1.5 re fBT108 142.5  TD/F1 7.5  Tf0.33  Tc 0  Tw (57) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.1162  Tc 0.4057  Tw (See supra Part II.) Tj-12 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (58) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0546  Tc 0.3441  Tw (Local Competition Users Group, Service Quality Measurements ver. 7.0 \(Aug. 28, 1998\) \(see file) Tj-48 -12.75  TD -0.0981  Tc 0.3876  Tw (in attached CD-ROM\).) Tj0 -24.75  TD -0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj389.25 0  TD /F1 12  Tf0.078  Tc 0  Tw (19) Tj-301.5 630.75  TD /F0 14.25  Tf0.3239  Tc -0.5354  Tw (Performance Measures) Tj-117 -44.25  TD /F1 12  Tf-0.1605  Tc -0.1755  Tw (The various OSS tests are designed to determine whether the incumbent company) Tj-36 -21.75  TD -0.1235  Tc -0.2125  Tw (is providing services to new competitors at parity with the services the incumbent provides) Tj0 -21.75  TD -0.1172  Tc -0.2188  Tw (itself or in a manner that will permit a competitor to initiate service in a commercially) Tj0 -21  TD -0.1694  Tc -0.1666  Tw (reasonable manner.) Tj103.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (57) Tj9 -4.5  TD /F1 12  Tf-0.1781  Tc -0.1579  Tw (  Inherent in that result is a determination that the operations meet) Tj-112.5 -21.75  TD -0.1213  Tc -0.2147  Tw (certain performance standards. ) Tj36 -20.25  TD -0.0638  Tc -0.2722  Tw (Both the FCC and some state commissions have adopted proposed or actual) Tj-36 -22.5  TD -0.1729  Tc -0.1631  Tw (standards to measure the performance of the incumbent.  These standards, however, go) Tj0 -21.75  TD -0.141  Tc -0.195  Tw (well beyond the provision of pre-order, order, provisioning, billing, and maintenance) Tj0 -21  TD -0.1643  Tc -0.1717  Tw (functions that make up the core of the OSS activities.  Also included in the various) Tj0 -21.75  TD -0.1258  Tc -0.2102  Tw (standards are provisions for system performance, collocation, directory assistance, and) Tj0 -21  TD -0.165  Tc -0.171  Tw (other items key to the introduction of new services.) Tj36 -21  TD -0.1082  Tc -0.2278  Tw (Another important feature of performance standards is the adoption of statistical) Tj-36 -21.75  TD -0.1238  Tc -0.2122  Tw (tests to determine if the incumbent is performing at parity.  These decisions normally adopt) Tj0 -21.75  TD -0.1438  Tc -0.1922  Tw (some statistical test that measures the amount of statistical variance of the averages to) Tj0 -21  TD -0.1533  Tc -0.1827  Tw (determine whether the incumbent\222s performance is significantly different from that provided) Tj0 -21.75  TD -0.2649  Tc -0.0711  Tw (to new entrants.) Tj36 -21.75  TD -0.1281  Tc -0.2079  Tw (A related factor is enforcement.  States have tied performance measures to) Tj-36 -21  TD -0.1306  Tc -0.2054  Tw (penalties or refunds in order to assure that incumbent does not backslide once it has) Tj0 -21.75  TD -0.0736  Tc -0.2624  Tw (received section 271 approval.) Tj36 -20.25  TD -0.127  Tc -0.209  Tw (Although discussion of performance standards is beyond the scope of this report,) Tj-36 -22.5  TD -0.1475  Tc -0.1885  Tw (the CD materials contain the performance standards proposed by the new entrants,) Tj429 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (58) Tj9 -4.5  TD /F1 12  Tf-0.56  Tc 0.224  Tw ( the) TjETendstream
-endobj
-79 0 obj
-3468
-endobj
-77 0 obj
-<<
-/Type /Page
-/Parent 68 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 78 0 R
->>
-endobj
-81 0 obj
-<<
-/Length 82 0 R
->>
-stream
-0 0 0 rg 72 197.25 144.75 1.5 re fBT108 180  TD/F1 7.5  Tf0.33  Tc 0  Tw (59) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0863  Tc 0.3758  Tw (In the Matter of Performance Measurements and Reporting Requirements for Operations Support) Tj-48 -13.5  TD -0.0023  Tc 0.2918  Tw (Systems, Interconnection, and Operator Services and Directory Assistance, Notice of Proposed) Tj0 -12  TD -0.0815  Tc 0.371  Tw (Rulemaking, CC Docket No 98-56 \(Apr. 17, 1998\) \(see file in attached CD-ROM\).) Tj36 -21  TD /F1 7.5  Tf0.33  Tc 0  Tw (60) Tj9 -4.5  TD /F1 12  Tf0  Tc -0.336  Tw ( ) Tj3 0  TD /F1 9.75  Tf-0.0356  Tc 0.3251  Tw (In the matter of Ameritech Michigan\222s submission on performance measures, reporting and) Tj-48 -12.75  TD -0.0715  Tc 0.361  Tw (benchmarks, pursuant to the October 2, 1998 order in Case No. U-11654, Opinion and Order, Case No. U-) Tj0 -12  TD -0.0568  Tc 0.3463  Tw (11830 \(Mich. Pub. Serv. Comm\222n, issued May 27, 1999\) \(see file in attached CD-ROM\).) Tj0 -24.75  TD /F1 12  Tf0.078  Tc 0  Tw (20) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-402.75 633  TD /F1 12  Tf-0.0967  Tc -0.2393  Tw (FCC\222s Notice of Proposed Rulemaking concerning performance measurements,) Tj415.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (59) Tj9 -4.5  TD /F1 12  Tf-0.072  Tc -0.264  Tw ( and an) Tj-424.5 -21  TD -0.1002  Tc -0.2358  Tw (order from the Michigan Public Service Commission on performance standards.) Tj412.5 4.5  TD /F1 7.5  Tf0.33  Tc 0  Tw (60) Tj-412.5 -48.75  TD /F0 12  Tf0.0364  Tc -0.3724  Tw (Viewing the CD-ROM) Tj36 -21.75  TD /F1 12  Tf-0.1824  Tc -0.1536  Tw (The accompanying CD-ROM contains most of the documents cited in this report.  In) Tj-36 -21.75  TD -0.0972  Tc -0.2388  Tw (addition, it also contains several related items.  These additional materials are included) Tj0 -21.75  TD -0.1154  Tc -0.2206  Tw (because they are related to OSS performance in various states or regions.) Tj36 -21  TD -0.1286  Tc -0.2074  Tw (To access these documents, insert the CD into your computer's CD drive.  To view) Tj-36 -21.75  TD -0.1498  Tc -0.1862  Tw (the documents contained on the CD-ROM, you will need to have Adobe Acrobat Reader) Tj0 -21  TD -0.171  Tc -0.165  Tw (installed on your computer. A copy of the Reader is included on the CD-ROM.  To install) Tj0 -21.75  TD -0.1654  Tc -0.0206  Tw (the Reader, copy the file ) Tj128.25 0  TD /F0 12  Tf-0.0036  Tc 0  Tw (reader.exe) Tj60 0  TD /F1 12  Tf-0.2101  Tc -0.1259  Tw ( to your computer.  Once you have copied the file to) Tj-188.25 -22.5  TD -0.1983  Tc -0.1377  Tw (your computer, the file can be installed two ways from the CD-ROM if you are using) Tj0 -21.75  TD -0.0081  Tc -0.3279  Tw (Windows 95 or 98.) Tj0 -42.75  TD -0.1752  Tc -0.1608  Tw (Left click the Start button and select Run, use Browse to locate and select the file, and) Tj0 -21  TD -0.1286  Tc -0.2074  Tw (select OK to install the file.) Tj0 -42.75  TD -0.375  Tc 0  Tw (OR) TjT* -0.1746  Tc -0.1614  Tw (Right click the Start button and select Explore; locate the file on the CD-ROM, and double) Tj0 -21.75  TD -0.14  Tc -0.196  Tw (click the file to install it.) TjETendstream
-endobj
-82 0 obj
-3348
-endobj
-80 0 obj
-<<
-/Type /Page
-/Parent 68 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 81 0 R
->>
-endobj
-84 0 obj
-<<
-/Length 85 0 R
->>
-stream
-BT72 75  TD0 0 0 rg /F1 9.75  Tf-0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj389.25 0  TD /F1 12  Tf0.078  Tc 0  Tw (21) Tj-454.5 633  TD -0.1869  Tc -0.1491  Tw (Once you have installed the Reader, open the ReadMeFirst file.  Use Run or Explore to) Tj0 -21  TD -0.1539  Tc -0.1821  Tw (locate the file on the CD-ROM. Double click on the file.  Follow the instructions in) Tj0 -21.75  TD -0.1075  Tc -0.2284  Tw (ReadMeFirst to locate materials on the CD-ROM.) Tj0 -21  TD /F0 12  Tf0.0588  Tc -0.3948  Tw (Documents on the CD-ROM) Tj74.25 -50.25  TD /F2 12  Tf-0.1223  Tc -0.2137  Tw (Document Title) Tj244.5 0  TD -0.1375  Tc 0  Tw (Description) Tj-312.75 -21  TD /F3 9.75  Tf-0.0686  Tc 0.3581  Tw (Third-Party Testing of Operational Support) Tj0 -12  TD 0  Tc 0.2893  Tw (Systems: A Background Report and Related) TjT* -0.0607  Tc 0  Tw (Materials) Tj234 24  TD /F1 9.75  Tf-0.0509  Tc 0.3404  Tw (A copy of this report) Tj-234 -57  TD /F3 9.75  Tf0.0221  Tc 0.2674  Tw (Application of Ameritech Michigan Pursuant to) Tj0 -12  TD 0.0052  Tc 0.2843  Tw (section 271 of the Communications Act of 1934,) TjT* -0.0449  Tc 0.3344  Tw (as amended, To Provide In-Region, InterLATA) TjT* -0.0765  Tc 0.366  Tw (Services In Michigan, Memorandum Opinion and) TjT* -0.0402  Tc 0.3297  Tw (Order, CC Docket No. 97-137 \(Released: August) TjT* -0.1229  Tc 0.4124  Tw (19, 1997\)) Tj234 60  TD /F1 9.75  Tf-0.0199  Tc 0.3094  Tw (FCC decision rejecting Ameritech Michigan's) Tj0 -12  TD -0.074  Tc 0.3635  Tw (request for section 271 relief) Tj-234 -81  TD /F3 9.75  Tf0.0287  Tc 0.2608  Tw (In the Matter of Application of BellSouth) Tj0 -12  TD 0.0242  Tc 0.2653  Tw (Corporation, BellSouth Telecommunications, Inc.,) TjT* -0.0078  Tc 0.2973  Tw (and BellSouth Long Distance, Inc., for Provision of) TjT* -0.0328  Tc 0.3223  Tw (In-Region, InterLATA Services in Louisiana,) Tj0 -12.75  TD -0.1006  Tc 0.3901  Tw (Memorandum Opinion and Order, CC Docket No.) Tj0 -12  TD -0.0816  Tc 0.3711  Tw (98-121 \(Released October 13, 1998\)) Tj234 60.75  TD /F1 9.75  Tf-0.0306  Tc 0.3201  Tw (FCC decision rejecting BellSouth's request for) Tj0 -12  TD -0.0498  Tc 0.3393  Tw (section 271 relief in Louisiana) Tj-234 -81.75  TD /F3 9.75  Tf0.0287  Tc 0.2608  Tw (In the Matter of Application of BellSouth) Tj0 -12  TD -0.0062  Tc 0.2957  Tw (Corporation, et al., Pursuant to section 271 of the) TjT* 0.0071  Tc 0.2824  Tw (Communications Act of 1934, as amended, To) TjT* -0.004  Tc 0.2935  Tw (Provide In-Region, InterLATA Services In South) TjT* -0.1276  Tc 0.4171  Tw (Carolina, Memorandum Opinion and Order, CC) TjT* -0.0424  Tc 0.3319  Tw (Docket No. 97-208 \(Released:  December 24,) TjT* -0.1862  Tc 0  Tw (1997\)) Tj234 72  TD /F1 9.75  Tf-0.0306  Tc 0.3201  Tw (FCC decision rejecting BellSouth's request for) Tj0 -12  TD -0.061  Tc 0.3505  Tw (section 271 relief in South Carolina) Tj-234 -93  TD /F3 9.75  Tf-0.0512  Tc 0.3407  Tw (In the Matter of Performance Measurements and) Tj0 -12  TD -0.0832  Tc 0.3727  Tw (Reporting Requirements for Operations Support) TjT* -0.0135  Tc 0.303  Tw (Systems, Interconnection, and Operator Services) TjT* 0.0101  Tc 0.2794  Tw (and Directory Assistance, Notice of Proposed) TjT* -0.0624  Tc 0.3519  Tw (Rulemaking, CC Docket No. 98-56 and RM-9101) Tj0 -12.75  TD -0.0706  Tc 0.3601  Tw (\(Released: April 17, 1998\)) Tj234 60.75  TD /F1 9.75  Tf-0.0325  Tc 0.322  Tw (FCC notice of proposed rulemaking discussing) Tj0 -12  TD -0.0945  Tc 0.384  Tw (performance standards and reporting) Tj-234 -81.75  TD /F3 9.75  Tf-0.0417  Tc 0.3312  Tw (Local Competition Users Group \(LCUG\),Service) Tj0 -12  TD -0.0652  Tc 0.3547  Tw (Quality Measurements \(SQMS\) \(August 28, 1998\)) Tj234 12  TD /F1 9.75  Tf-0.022  Tc 0.3115  Tw (Version 7.0 of proposed standards suggested by a) Tj0 -12  TD -0.0817  Tc 0.3712  Tw (group of competitive local exchange carriers) TjETendstream
-endobj
-85 0 obj
-4062
-endobj
-83 0 obj
-<<
-/Type /Page
-/Parent 68 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F2 10 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 84 0 R
->>
-endobj
-88 0 obj
-<<
-/Length 89 0 R
->>
-stream
-BT146.25 702  TD0 0 0 rg /F2 12  Tf-0.1223  Tc -0.2137  Tw (Document Title) Tj244.5 0  TD -0.1375  Tc 0  Tw (Description) Tj-318.75 -627  TD /F1 12  Tf0.078  Tc (22) Tj178.5 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj224.25 0  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw ( \227 NRRI 99-13) Tj-396.75 606.75  TD /F3 9.75  Tf0.0264  Tc 0.2631  Tw (In the matter of Ameritech Michigan\222s submission) Tj0 -12.75  TD -0.058  Tc 0.3475  Tw (on performance measures, reporting, and) Tj0 -12  TD 0.0425  Tc 0.247  Tw (benchmarks, pursuant to the October 2, 1998) TjT* -0.1233  Tc 0.4128  Tw (order in Case No. U-11654,Case No. U-11830) TjT* -0.0778  Tc 0.3673  Tw (\(Mich. Pub. Serv. Comm'n May 27, 1999\)) Tj234 48.75  TD /F1 9.75  Tf-0.0438  Tc 0.3333  Tw (Order of the Michigan Public Service Commission) Tj0 -12.75  TD -0.0956  Tc 0.3851  Tw (adopting performance standards for OSS for) Tj0 -12  TD 0.0209  Tc 0.2686  Tw (Ameritech Michigan) Tj-234 -57  TD /F3 9.75  Tf-0.0374  Tc 0.3269  Tw (In the Matter of Petition of New York Telephone) Tj0 -12  TD -0.0389  Tc 0.3284  Tw (Company for Approval of Its Statement of) TjT* -0.0686  Tc 0.3581  Tw (Generally Available Terms and Conditions) TjT* -0.0062  Tc 0.2957  Tw (pursuant to section 252 of the) TjT* -0.0085  Tc 0.298  Tw (Telecommunications Act of1996 and Draft Filing of) TjT* 0.0178  Tc 0.2717  Tw (Petition forInterLATA Entry pursuant to section) TjT* 0.0093  Tc 0.2802  Tw (271 of the Telecommunications Act of 1996, Pre-) TjT* 0.0512  Tc 0.2383  Tw (filing Statement of Bell Atlantic - New York, Case) TjT* -0.1012  Tc 0.3907  Tw (97-C-0271 \(filed Apr. 6, 1998\)) Tj234 96  TD /F1 9.75  Tf0.0012  Tc 0.2883  Tw (Bell Atlantic-New York pleading setting out the) Tj0 -12  TD -0.0787  Tc 0.3682  Tw (terms of the agreement with the New York) TjT* -0.0106  Tc 0.3001  Tw (Commission, part of which contains the basis for) TjT* 0.0262  Tc 0.2633  Tw (third-party OSS testing) Tj-234 -93  TD /F3 9.75  Tf-0.0168  Tc 0.3063  Tw (Domain Testing in KPMG Review of Bell Atlantic-) Tj0 -12  TD 0.0249  Tc 0.2646  Tw (New York OSS, Excerpts from KPMG, Bell) Tj0 -12.75  TD -0  Tc 0.2901  Tw (Atlantic OSS Evaluation Project: Final Report) Tj0 -12  TD -0.0575  Tc 0.347  Tw (\(Draft, June 1, 1999\)) Tj234 36.75  TD /F1 9.75  Tf-0.0349  Tc 0.3244  Tw (Listing of the various tests by subject area for the) Tj0 -12  TD 0.0461  Tc 0.2434  Tw (New York OSS test) Tj-234 -57.75  TD /F3 9.75  Tf0.0304  Tc 0.2591  Tw (State of New York Department of Public Service) Tj0 -12  TD 0.005  Tc 0.2845  Tw (Bell Atlantic, OSS Evaluation Project Final Report) TjT* -0.0728  Tc 0.3623  Tw (\(draft dated June 1, 1999\)) TjT* 0.0343  Tc 0.2552  Tw (1. Table of Contents) TjT* -0.0433  Tc 0.3328  Tw (2. Document Control) TjT* -0.0338  Tc 0.3233  Tw (3. Executive Summary) TjT* 0.0055  Tc 0.284  Tw (4. Test Summary and Analysis) TjT* -0.0663  Tc 0.3558  Tw (5. Pre-Ordering, Ordering and Provisioning Results) TjT* -0.057  Tc 0.3465  Tw (and Analysis \(part 1\)) TjT* -0.0663  Tc 0.3558  Tw (6.Pre-Ordering, Ordering and Provisioning Results) TjT* -0.057  Tc 0.3465  Tw (and Analysis \(part 2\)) Tj0 -12.75  TD -0.0499  Tc 0.3394  Tw (7. Maintenance and Repair Results and Analysis) Tj0 -12  TD 0.0295  Tc 0.26  Tw (8.Billing Results and Analysis) TjT* -0.0458  Tc 0.3353  Tw (9. Relationship Management and Infrastructure) TjT* 0.024  Tc 0.2655  Tw (Results and Analysis) Tj234 168.75  TD /F1 9.75  Tf-0.0633  Tc 0.3528  Tw (Draft final report of KPMG concerning the OSS) Tj0 -12  TD 0.0059  Tc 0.2836  Tw (test of Bell Atlantic-New York.  In nine parts. ) TjT* -0.0686  Tc 0.3581  Tw (Appendices are available on the New York Public) TjT* -0.048  Tc 0.3375  Tw (Service website.  See) TjT* 0.0801  Tc 0  Tw (http://www.dps.state.ny.us/tel271.htm) Tj-234 -153.75  TD /F3 9.75  Tf-0.0155  Tc 0.305  Tw (Master Test Plan for SWB-Texas) Tj234 0  TD /F1 9.75  Tf-0.0115  Tc 0.301  Tw (Final test plan for Texas Public Utilities) Tj0 -12  TD 0.0345  Tc 0.255  Tw (Commission test of Southwest Bell) Tj-234 -33  TD /F3 9.75  Tf-0.0164  Tc 0.3059  Tw (Texas Commission OSS Recommendations) Tj0 -12  TD -0.0373  Tc 0.3267  Tw (Project 16251) Tj234 12  TD /F1 9.75  Tf0.0136  Tc 0.2759  Tw (Findings of the Texas Public Utilities Commission) Tj0 -12  TD 0.0336  Tc 0.2559  Tw (of necessary changes in SWB OSS and testing) Tj-234 -33  TD /F3 9.75  Tf0.031  Tc 0.2585  Tw (Public Utilities Commission of Texas Operational) Tj234 0  TD /F1 9.75  Tf-0.0349  Tc 0.3243  Tw (Interim report of test results for Southwestern Bell) TjETendstream
-endobj
-89 0 obj
-4681
-endobj
-86 0 obj
-<<
-/Type /Page
-/Parent 87 0 R
-/Resources <<
-/Font <<
-/F1 8 0 R 
-/F2 10 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 88 0 R
->>
-endobj
-91 0 obj
-<<
-/Length 92 0 R
->>
-stream
-BT146.25 702  TD0 0 0 rg /F2 12  Tf-0.1223  Tc -0.2137  Tw (Document Title) Tj244.5 0  TD -0.1375  Tc 0  Tw (Description) Tj-318.75 -627  TD /F1 9.75  Tf-0.226  Tc 0.5155  Tw (NRRI 99-13 \227 ) Tj65.25 0  TD /F3 9.75  Tf-0.022  Tc 0.3115  Tw (Third-Party Testing of Operational Support Systems) Tj389.25 0  TD /F1 12  Tf0.078  Tc 0  Tw (23) Tj-448.5 606.75  TD /F3 9.75  Tf-0.0516  Tc 0.3411  Tw (Support Systems Report \(July 1999\)) Tj234 0  TD /F1 9.75  Tf-0.2401  Tc 0.5296  Tw (of Texas) Tj-234 -33  TD /F3 9.75  Tf-0.0033  Tc 0.2928  Tw (In the Matter of Applications for Consent to the) Tj0 -12.75  TD -0.0156  Tc 0.3051  Tw (Transfer of Control of Licenses and section 214) Tj0 -12  TD -0.0271  Tc 0.3166  Tw (Authorizations from Ameritech Corporation,) TjT* 0.032  Tc 0.2575  Tw (Transferor, to SBC Communications Inc.,) TjT* -0.0548  Tc 0.3442  Tw (Transferee., Proposed Conditions to FCC Order) TjT* -0.0492  Tc 0.3387  Tw (Approving SBC/Ameritech Merger, CC Docket  No.) TjT* -0.1248  Tc 0.4143  Tw (98-141 \(July 1, 1999\)) Tj234 72.75  TD /F1 9.75  Tf-0.0572  Tc 0.3467  Tw (Sets out various conditions regarding the adoption) Tj0 -12.75  TD -0.0545  Tc 0.344  Tw (of OSS standards and performance) Tj-234 -93  TD /F3 9.75  Tf0.0355  Tc 0.254  Tw (California Public Utilities Commission,) Tj0 -12  TD 0.0196  Tc 0.2699  Tw (Telecommunications Division, Final Staff Report,) TjT* 0.0241  Tc 0.2654  Tw (Pacific Bell \(U 1001 C\) and Pacific Bell) TjT* 0.043  Tc 0.2465  Tw (Communications, Notice of Intent to File section) TjT* -0.0143  Tc 0.3038  Tw (271 Application For InterLATA Authority in) TjT* -0.0466  Tc 0.3361  Tw (California \(October 5, 1998\)) Tj234 60  TD /F1 9.75  Tf-0.088  Tc 0.3775  Tw (Staff report of the California Commission that) Tj0 -12  TD -0.0487  Tc 0.3382  Tw (identifies concerns with the provision of OSS) Tj-234 -81  TD /F3 9.75  Tf0.0389  Tc 0.2506  Tw (BellSouth Telecommunications Entry into) Tj0 -12  TD 0.0076  Tc 0.2819  Tw (InterLATA Services pursuant to section 271 of the) TjT* 0.0216  Tc 0.2679  Tw (Telecommunications Act of 1996, Staff Report and) Tj0 -12.75  TD -0.0227  Tc 0.3122  Tw (Opinion, Docket No. 6863-U \(Ga. Pub. Serv.) Tj0 -12  TD -0.0096  Tc 0.2991  Tw (Comm'n, issued Oct. 15, 1998\)) Tj234 48.75  TD /F1 9.75  Tf-0.0924  Tc 0.3819  Tw (Staff review of section 271 compliance and) Tj0 -12  TD 0.0355  Tc 0.2539  Tw (includes a discussion of OSS status) TjETendstream
-endobj
-92 0 obj
-2476
-endobj
-90 0 obj
-<<
-/Type /Page
-/Parent 87 0 R
-/Resources <<
-/Font <<
-/F1 8 0 R 
-/F2 10 0 R 
-/F3 16 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 91 0 R
->>
-endobj
-6 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F0
-/BaseFont /Arial,Bold
-/FirstChar 31
-/LastChar 255
-/Widths [ 750 278 333 474 556 556 889 722 238 333 333 389 584 278 333 278 
-278 556 556 556 556 556 556 556 556 556 556 333 333 584 584 584 
-611 975 722 722 722 722 667 611 778 722 278 556 722 611 833 722 
-778 667 778 722 667 611 722 667 944 667 667 611 333 278 333 584 
-556 333 556 611 556 611 556 333 611 611 278 278 556 278 889 611 
-611 611 611 389 556 333 611 556 778 556 556 500 389 280 389 584 
-750 556 750 278 556 500 1000 556 556 333 1000 667 333 1000 750 750 
-750 750 278 278 500 500 350 556 1000 333 1000 556 333 944 750 750 
-667 278 333 556 556 556 556 280 556 333 737 370 556 584 333 737 
-552 400 549 333 333 333 576 556 278 333 333 365 556 834 834 834 
-611 722 722 722 722 722 722 1000 722 667 667 667 667 278 278 278 
-278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 
-611 556 556 556 556 556 556 889 556 556 556 556 556 278 278 278 
-278 611 611 611 611 611 611 611 549 611 611 611 611 611 556 611 
-556 ]
-/Encoding /WinAnsiEncoding
-/FontDescriptor 7 0 R
->>
-endobj
-7 0 obj
-<<
-/Type /FontDescriptor
-/FontName /Arial,Bold
-/Flags 16416
-/FontBBox [ -250 -250 1350 938 ]
-/MissingWidth 750
-/StemV 159
-/StemH 159
-/ItalicAngle 0
-/CapHeight 938
-/XHeight 656
-/Ascent 938
-/Descent -250
-/Leading 251
-/MaxWidth 1125
-/AvgWidth 500
->>
-endobj
-8 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F1
-/BaseFont /Arial
-/FirstChar 31
-/LastChar 255
-/Widths [ 750 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 
-278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 
-556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 
-778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 
-556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 
-556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 
-750 556 750 222 556 333 1000 556 556 333 1000 667 333 1000 750 750 
-750 750 222 222 333 333 350 556 1000 333 1000 500 333 944 750 750 
-667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 
-552 400 549 333 333 333 576 537 278 333 333 365 556 834 834 834 
-611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 
-278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 
-611 556 556 556 556 556 556 889 500 556 556 556 556 278 278 278 
-278 556 556 556 556 556 556 556 549 611 556 556 556 556 500 556 
-500 ]
-/Encoding /WinAnsiEncoding
-/FontDescriptor 9 0 R
->>
-endobj
-9 0 obj
-<<
-/Type /FontDescriptor
-/FontName /Arial
-/Flags 32
-/FontBBox [ -250 -188 1276 938 ]
-/MissingWidth 750
-/StemV 80
-/StemH 80
-/ItalicAngle 0
-/CapHeight 938
-/XHeight 656
-/Ascent 938
-/Descent -188
-/Leading 188
-/MaxWidth 1063
-/AvgWidth 438
->>
-endobj
-10 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F2
-/BaseFont /Arial,BoldItalic
-/FirstChar 31
-/LastChar 255
-/Widths [ 750 278 333 474 556 556 889 722 238 333 333 389 584 278 333 278 
-278 556 556 556 556 556 556 556 556 556 556 333 333 584 584 584 
-611 975 722 722 722 722 667 611 778 722 278 556 722 611 833 722 
-778 667 778 722 667 611 722 667 944 667 667 611 333 278 333 584 
-556 333 556 611 556 611 556 333 611 611 278 278 556 278 889 611 
-611 611 611 389 556 333 611 556 778 556 556 500 389 280 389 584 
-750 556 750 278 556 500 1000 556 556 333 1000 667 333 1000 750 750 
-750 750 278 278 500 500 350 556 1000 333 1000 556 333 944 750 750 
-667 278 333 556 556 556 556 280 556 333 737 370 556 584 333 737 
-552 400 549 333 333 333 576 556 278 333 333 365 556 834 834 834 
-611 722 722 722 722 722 722 1000 722 667 667 667 667 278 278 278 
-278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 
-611 556 556 556 556 556 556 889 556 556 556 556 556 278 278 278 
-278 611 611 611 611 611 611 611 549 611 611 611 611 611 556 611 
-556 ]
-/Encoding /WinAnsiEncoding
-/FontDescriptor 11 0 R
->>
-endobj
-11 0 obj
-<<
-/Type /FontDescriptor
-/FontName /Arial,BoldItalic
-/Flags 16480
-/FontBBox [ -250 -188 1276 938 ]
-/MissingWidth 750
-/StemV 159
-/StemH 159
-/ItalicAngle -11
-/CapHeight 938
-/XHeight 656
-/Ascent 938
-/Descent -188
-/Leading 188
-/MaxWidth 1063
-/AvgWidth 500
->>
-endobj
-16 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F3
-/BaseFont /Arial,Italic
-/FirstChar 31
-/LastChar 255
-/Widths [ 750 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 
-278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 
-556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 
-778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 
-556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 
-556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 
-750 556 750 222 556 333 1000 556 556 333 1000 667 333 1000 750 750 
-750 750 222 222 333 333 350 556 1000 333 1000 500 333 944 750 750 
-667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 
-552 400 549 333 333 333 576 537 278 333 333 365 556 834 834 834 
-611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 
-278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 
-611 556 556 556 556 556 556 889 500 556 556 556 556 278 278 278 
-278 556 556 556 556 556 556 556 549 611 556 556 556 556 500 556 
-500 ]
-/Encoding /WinAnsiEncoding
-/FontDescriptor 17 0 R
->>
-endobj
-17 0 obj
-<<
-/Type /FontDescriptor
-/FontName /Arial,Italic
-/Flags 96
-/FontBBox [ -250 -231 1292 1000 ]
-/MissingWidth 769
-/StemV 84
-/StemH 84
-/ItalicAngle -11
-/CapHeight 1000
-/XHeight 700
-/Ascent 1000
-/Descent -231
-/Leading 231
-/MaxWidth 1077
-/AvgWidth 462
->>
-endobj
-2 0 obj
-[ /PDF /Text  ]
-endobj
-5 0 obj
-<<
-/Kids [4 0 R 14 0 R 15 0 R 20 0 R 23 0 R 26 0 R ]
-/Count 6
-/Type /Pages
-/Parent 93 0 R
->>
-endobj
-30 0 obj
-<<
-/Kids [29 0 R 33 0 R 36 0 R 39 0 R 42 0 R 45 0 R ]
-/Count 6
-/Type /Pages
-/Parent 93 0 R
->>
-endobj
-49 0 obj
-<<
-/Kids [48 0 R 52 0 R 55 0 R 58 0 R 61 0 R 64 0 R ]
-/Count 6
-/Type /Pages
-/Parent 93 0 R
->>
-endobj
-68 0 obj
-<<
-/Kids [67 0 R 71 0 R 74 0 R 77 0 R 80 0 R 83 0 R ]
-/Count 6
-/Type /Pages
-/Parent 93 0 R
->>
-endobj
-87 0 obj
-<<
-/Kids [86 0 R 90 0 R ]
-/Count 2
-/Type /Pages
-/Parent 93 0 R
->>
-endobj
-93 0 obj
-<<
-/Kids [5 0 R 30 0 R 49 0 R 68 0 R 87 0 R ]
-/Count 26
-/Type /Pages
-/MediaBox [ 0 0 612 792 ]
->>
-endobj
-1 0 obj
-<<
-/Creator <FEFF0043003A005C004D007900460069006C00650073005C004E005200520049002000390039>
-/CreationDate (D:19990817155945)
-/Title <FEFF00390039002D00310033002E005000440046>
-/Author <FEFF006700690076006C00650072>
-/Producer (Acrobat PDFWriter 4.0 for Windows)
->>
-endobj
-3 0 obj
-<<
-/Pages 93 0 R
-/Type /Catalog
-/DefaultGray 94 0 R
-/DefaultRGB  95 0 R
->>
-endobj
-94 0 obj
-[/CalGray
-<<
-/WhitePoint [0.9505 1 1.0891 ]
-/Gamma 0.2468 
->>
-]
-endobj
-95 0 obj
-[/CalRGB
-<<
-/WhitePoint [0.9505 1 1.0891 ]
-/Gamma [0.2468 0.2468 0.2468 ]
-/Matrix [0.4361 0.2225 0.0139 0.3851 0.7169 0.0971 0.1431 0.0606 0.7141 ]
->>
-]
-endobj
-xref
-0 96
-0000000000 65535 f
-0000103733 00000 n
-0000103017 00000 n
-0000104019 00000 n
-0000001453 00000 n
-0000103051 00000 n
-0000097402 00000 n
-0000098522 00000 n
-0000098803 00000 n
-0000099919 00000 n
-0000100190 00000 n
-0000101318 00000 n
-0000000021 00000 n
-0000001429 00000 n
-0000001610 00000 n
-0000006732 00000 n
-0000101608 00000 n
-0000102733 00000 n
-0000001699 00000 n
-0000006708 00000 n
-0000009897 00000 n
-0000006890 00000 n
-0000009873 00000 n
-0000013600 00000 n
-0000010055 00000 n
-0000013576 00000 n
-0000017678 00000 n
-0000013758 00000 n
-0000017654 00000 n
-0000021990 00000 n
-0000103167 00000 n
-0000017836 00000 n
-0000021966 00000 n
-0000026956 00000 n
-0000022137 00000 n
-0000026932 00000 n
-0000031193 00000 n
-0000027103 00000 n
-0000031169 00000 n
-0000036445 00000 n
-0000031352 00000 n
-0000036421 00000 n
-0000040689 00000 n
-0000036592 00000 n
-0000040665 00000 n
-0000046357 00000 n
-0000040836 00000 n
-0000046333 00000 n
-0000050407 00000 n
-0000103285 00000 n
-0000046504 00000 n
-0000050383 00000 n
-0000054578 00000 n
-0000050566 00000 n
-0000054554 00000 n
-0000058626 00000 n
-0000054737 00000 n
-0000058602 00000 n
-0000062052 00000 n
-0000058785 00000 n
-0000062028 00000 n
-0000065919 00000 n
-0000062211 00000 n
-0000065895 00000 n
-0000070148 00000 n
-0000066078 00000 n
-0000070124 00000 n
-0000073865 00000 n
-0000103403 00000 n
-0000070307 00000 n
-0000073841 00000 n
-0000074342 00000 n
-0000074024 00000 n
-0000074319 00000 n
-0000077973 00000 n
-0000074489 00000 n
-0000077949 00000 n
-0000081685 00000 n
-0000078132 00000 n
-0000081661 00000 n
-0000085277 00000 n
-0000081844 00000 n
-0000085253 00000 n
-0000089583 00000 n
-0000085436 00000 n
-0000089559 00000 n
-0000094521 00000 n
-0000103521 00000 n
-0000089755 00000 n
-0000094497 00000 n
-0000097242 00000 n
-0000094681 00000 n
-0000097218 00000 n
-0000103611 00000 n
-0000104117 00000 n
-0000104205 00000 n
-trailer
-<<
-/Size 96
-/Root 3 0 R
-/Info 1 0 R
-/ID [<4f14139e5389b5ac81456dc1132eef33><4f14139e5389b5ac81456dc1132eef33>]
->>
-startxref
-104383
-%%EOF
