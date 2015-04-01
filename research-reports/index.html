@@ -1,0 +1,35 @@
+---
+layout: default
+category: reports
+title: "Research Reports"
+subheadline: "National Regulatory Research Institute"
+header:
+   image_fullwidth: "header_unsplash_5.jpg"
+---
+<div class="row t30 b20 homepage">
+  <h1>{{ page.title }}</h1>
+</div>
+
+<div class="row">
+    <div class="medium-9 columns">
+      {% for post in paginator.posts limit:5 %}
+      {% if page.category == "reports" %}
+      <a href="{{ site.url }}{{ post.url }}" class="category"><h2>{{ post.title }}</h2>
+      {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
+      <p>&mdash; {% if post.author %} {{ post.author }}{% endif %}</p>
+      <p>
+          {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}</a>
+          <a href="{{ site.url }}{{ post.url }}" title="Read {{ post.title escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+      </p>
+      {% endif %}
+      {% endfor %}
+    </div>
+  <div class="medium-1 columns">
+  </div>
+  <div class="medium-3 columns">
+      {% include reportsCategories.html %}
+  </div>
+</div>
+
+
+{% include categoryPager.html %}

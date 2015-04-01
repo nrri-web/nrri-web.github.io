@@ -1,0 +1,21 @@
+/* SITE */
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+
+
+# THANKS
+
+Name: Daniel Phelan
+Role: Modified
+Theme: http://phlow.github.io/feeling-responsive/
+Twitter: http://twitter.com/dtphelan
+
+# TECHNOLOGY COLOPHON
+
+Last Updated: 2015/03/31
+Standards: HTML5, CSS3
+Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
+Components: Modernizr, jQuery, Backstretch.js, Reveal, Foundation Framework

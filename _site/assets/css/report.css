@@ -1,0 +1,62 @@
+p {
+  width: 65%;
+  font-size: 20px;
+}
+
+pre {
+  width: 65%;
+}
+
+.marginnote a, .sidenote a {
+  border-bottom: none;
+  }
+
+.marginnote a:hover, .sidenote a:hover {
+  color: #087BBC;
+  border-bottom: none;
+}
+
+.sidenote, .marginnote {
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 1.2;
+  vertical-align: baseline;
+  position: relative; }
+
+@media screen and (max-width: 600px) {
+  p {
+    width: 75%; } }
+@media screen and (max-width: 400px) {
+  p {
+    width: 90%; } }
+
+.sidenote a {
+  font-size: 1rem;
+  line-height: 1rem;
+  font-weight: 400;
+ }
+
+@media screen and (max-width: 600px) {
+  .sidenote, .marginnote {
+    width: 25%;
+    margin-right: -35%; } }
+@media screen and (max-width: 400px) {
+  .sidenote, .marginnote {
+    display: none; } }
+
+.sidenote a {
+  text-decoration: none; }
+
+.fullwidth {
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+span.newthought {
+  font-variant: small-caps; }

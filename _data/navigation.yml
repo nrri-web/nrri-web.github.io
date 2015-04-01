@@ -1,0 +1,38 @@
+- title: Home
+  url: "/index.html"
+  side: left
+
+- title: About
+  url: "/info/"
+  side: left
+
+- title: "Research Reports"
+  url: "/reports/index.html"
+  side: left
+  dropdown:
+  - title: "Electricity"
+    url: "/reports/electricity/index.html"
+  - title: "Multi-Utility"
+    url: "/reports/multiUtility/index.html"
+  - title: "Natural Gas"
+    url: "/reports/naturalGas/index.html"
+  - title: "Telecommunications"
+    url: "/reports/telecommunications/index.html"
+  - title: "Water"
+    url: "/reports/water/index.html"
+
+- title: "Teleseminars"
+  url: "/teleseminars/index.html"
+  side: left
+
+- title: Presentations
+  url: "/presentations/index.html"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
