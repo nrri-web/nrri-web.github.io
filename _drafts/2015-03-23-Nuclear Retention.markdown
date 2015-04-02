@@ -12,19 +12,6 @@ categories:
   - electricity
 teaser:     "Nuclear power faces threats from low electricity prices and rising costs. This report summarizes the conditions surrounding nuclear, looks at case studies where plants have closed, and examines the policy decisions that impact the future of nuclear."
 ---
-REDO SIDENOTE/FULLWIDTH TAGS TO WORK WITHOUT PLUGINS
-marginnote:
-<span class='marginnote'>#{@text[1]}</span><img class='fullwidth' src='#{@text[0]}'/>
-fullwidth:
-"<div><img class='fullwidth' src='#{@text[0]}'/></div> " +
-"<p><span class='marginnote'>#{@text[1]}</span></p>"
-marginfigure:
-"<span class='marginnote'><img class='fullwidth' src='#{@text[0]}'/>#{@text[1]}</span>"
-newthought:
-"<span class='newthought'>#{@text[0]}</span> "
-sidenote:
-"<sup class='sidenote-number'>#{@text[0]}</sup><span class='sidenote'><sup class='sidenote-number'>#{@text[0]}</sup> #{@text[1]}</span>"
-
 Nuclear power has historically provided baseload generation for the United States’ electric grid, and supplied roughly 19% of the country’s energy generation in 2013.{% sidenote 1 '<a href="http://www.eia.gov/tools/faqs/faq.cfm?id=427&t=3">U.S. Energy Information Administration, 2014.</a>' %} Nuclear offers baseload power with low greenhouse gas emissions and low fuel costs, but issues with high up-front costs and, increasingly, low wholesale electricity costs have limited the expansion of nuclear power. Existing plants that must compete with the price of natural gas in restructured markets have, in some cases, opted to shut down rather than operate at losses. The price pressures on nuclear power have placed the future of the resource under threat.
 
 From January 2006 to January 2012, the average wholesale price of electricity in the MISO and PJM markets decreased from around $30-$40/MWh to roughly $20-$30/MWh, as seen in Figure 1 below. This has lowered the “quark spread”-the difference between the wholesale price of electricity and the cost of nuclear fuel.

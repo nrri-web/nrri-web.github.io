@@ -9,13 +9,13 @@
 	<!-- Page-Specific CSS and JS -->
 	{% if page.custom_css %}
   	{% for stylesheet in page.custom_css %}
-  	<link rel="stylesheet" href="/nrri/assets/css/{{ stylesheet }}.css" media="screen" type="text/css">
+  	<link rel="stylesheet" href="/assets/css/{{ stylesheet }}.css" media="screen" type="text/css">
   	{% endfor %}
 	{% endif %}
 
 	{% if page.custom_js %}
   	{% for js_file in page.custom_js %}
-  	<script async src='/nrri/assets/js/{{ js_file }}.js' type="text/javascript"></script>
+  	<script async src='/assets/js/{{ js_file }}.js' type="text/javascript"></script>
   	{% endfor %}
 		{% endif %}
 

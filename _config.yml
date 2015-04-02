@@ -73,7 +73,8 @@ exclude:
 
 # Additional settings
 collections:
-  - nrriReports
+  nrriReports:
+    output: true
 username: nrri-web
 repo: nrri-web.github.io
 destination: ../nrri-web.github.io-pages/
@@ -81,6 +82,7 @@ relative_source: ../nrri-web.github.io/
 
 # Prose.io settings
 prose:
+  media: "/images"
   ignore:
     - index.md
     - index.html
@@ -115,7 +117,25 @@ prose:
     - /teleseminars
   metadata:
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "subheadline"
+          field:
+            element: "text"
+            label: "Subtitle"
+      - name: "date"
+          field:
+            element: "text"
+            help: "Date, in YEAR-MONTH-DAY format, i.e., 2015-04-02"
+      - name: "author"
+        field:
+          label: "Author"
+          element: "text"
+          value: "author"
       - name: "layout"
+        label: "Layout"
         field:
           element: "select"
           options:
@@ -149,6 +169,10 @@ prose:
               value: "telemsinars"
             - name: "Presentation"
               value: "presentations"
+      - name: "teaser"
+        field:
+          element: "textarea"
+          help: "Replace me! This field will be displayed on index pages, but not in the post itself."
     _posts/static:
       - name: "layout"
         field:
@@ -209,9 +233,8 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             "https://plus.google.com/u/0/118311555303973066167"
-google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
-bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
+# google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
+# bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 # alexa_verify_id:         ""
 
 
