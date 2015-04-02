@@ -82,7 +82,6 @@ relative_source: ../nrri-web.github.io/
 
 # Prose.io settings
 prose:
-  media: "/images"
   ignore:
     - index.md
     - index.html
