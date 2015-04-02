@@ -115,23 +115,6 @@ prose:
     - /teleseminars
   metadata:
     _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-      - name: "subheadline"
-          field:
-            element: "text"
-            label: "Subtitle"
-      - name: "date"
-          field:
-            element: "text"
-            help: "Date, in YEAR-MONTH-DAY format, i.e., 2015-04-02"
-      - name: "author"
-        field:
-          label: "Author"
-          element: "text"
-          value: "author"
       - name: "layout"
         label: "Layout"
         field:
