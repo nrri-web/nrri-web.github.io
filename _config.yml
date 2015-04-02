@@ -148,7 +148,6 @@ prose:
         field:
           element: "multiselect"
           label: "Add Categories"
-          placeholder: "Choose Categories"
           options:
             - name: "Report"
               value: "reports"
