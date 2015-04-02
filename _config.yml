@@ -118,18 +118,18 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "Title"
+          label: "title"
       - name: "subheadline"
+        label: "Subtitle"
         field:
           element: "text"
-          label: "Subtitle"
       - name: "date"
+        help: "Date, in YEAR-MONTH-DAY format, i.e., 2015-04-02"
         field:
           element: "text"
-          help: "Date, in YEAR-MONTH-DAY format, i.e., 2015-04-02"
       - name: "author"
+        label: "Author"
         field:
-          label: "Author"
           element: "text"
           value: "author"
       - name: "layout"
@@ -170,7 +170,7 @@ prose:
       - name: "teaser"
         field:
           element: "textarea"
-          help: "Replace me! This field will be displayed on index pages, but not in the post itself."
+          label: "This field will be displayed on index pages, but not in the post itself."
     _posts/static:
       - name: "layout"
         field:
