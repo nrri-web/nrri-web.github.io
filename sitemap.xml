@@ -426,7 +426,7 @@
     <url>
       <loc>http://nrri-web.github.io/404.html</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -441,7 +441,7 @@
     <url>
       <loc>http://nrri-web.github.io/changelog/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -456,7 +456,7 @@
     <url>
       <loc>http://nrri-web.github.io/contact/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -471,7 +471,7 @@
     <url>
       <loc>http://nrri-web.github.io/design/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -486,7 +486,7 @@
     <url>
       <loc>http://nrri-web.github.io/documentation/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -501,7 +501,7 @@
     <url>
       <loc>http://nrri-web.github.io/feed.xml</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -516,7 +516,7 @@
     <url>
       <loc>http://nrri-web.github.io/getting-started/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -531,7 +531,7 @@
     <url>
       <loc>http://nrri-web.github.io/headers/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -546,67 +546,7 @@
     <url>
       <loc>http://nrri-web.github.io/humans.txt</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/reports/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/presentations/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/reports/electricity/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -621,7 +561,7 @@
     <url>
       <loc>http://nrri-web.github.io/reports/multiUtility/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -634,129 +574,9 @@
   
     
     <url>
-      <loc>http://nrri-web.github.io/research-reports/telecommunications/</loc>
+      <loc>http://nrri-web.github.io/presentations/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/reports/telecommunications/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/research-reports/multiUtility/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/research-reports/electricity/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/research-reports/naturalGas/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/research-reports/water/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/research-reports/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/teleseminars/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/reports/naturalGas/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -771,7 +591,82 @@
     <url>
       <loc>http://nrri-web.github.io/reports/water/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://nrri-web.github.io/reports/</loc>
+      
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://nrri-web.github.io/teleseminars/</loc>
+      
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://nrri-web.github.io/reports/naturalGas/</loc>
+      
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://nrri-web.github.io/reports/telecommunications/</loc>
+      
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://nrri-web.github.io/reports/electricity/</loc>
+      
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -786,7 +681,22 @@
     <url>
       <loc>http://nrri-web.github.io/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://nrri-web.github.io/</loc>
+      
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -801,7 +711,7 @@
     <url>
       <loc>http://nrri-web.github.io/info/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -816,7 +726,7 @@
     <url>
       <loc>http://nrri-web.github.io/redirect-page/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -831,7 +741,7 @@
     <url>
       <loc>http://nrri-web.github.io/roadmap/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -846,7 +756,7 @@
     <url>
       <loc>http://nrri-web.github.io/robots.txt</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -861,7 +771,7 @@
     <url>
       <loc>http://nrri-web.github.io/search/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -876,7 +786,7 @@
     <url>
       <loc>http://nrri-web.github.io/sitemap.xml</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -891,37 +801,7 @@
     <url>
       <loc>http://nrri-web.github.io/assets/css/styles_feeling_responsive.css</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/reports/page2/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://nrri-web.github.io/reports/page3/</loc>
-      
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -936,7 +816,7 @@
     <url>
       <loc>http://nrri-web.github.io/presentations/page2/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -951,7 +831,7 @@
     <url>
       <loc>http://nrri-web.github.io/presentations/page3/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -964,9 +844,9 @@
   
     
     <url>
-      <loc>http://nrri-web.github.io/research-reports/page2/</loc>
+      <loc>http://nrri-web.github.io/reports/page2/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -979,9 +859,9 @@
   
     
     <url>
-      <loc>http://nrri-web.github.io/research-reports/page3/</loc>
+      <loc>http://nrri-web.github.io/reports/page3/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -996,7 +876,7 @@
     <url>
       <loc>http://nrri-web.github.io/blog/page2/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1011,7 +891,7 @@
     <url>
       <loc>http://nrri-web.github.io/blog/page3/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1026,7 +906,7 @@
     <url>
       <loc>http://nrri-web.github.io/blog/page4/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1041,7 +921,7 @@
     <url>
       <loc>http://nrri-web.github.io/blog/page5/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1056,7 +936,7 @@
     <url>
       <loc>http://nrri-web.github.io/blog/page6/</loc>
       
-        <lastmod>2015-04-02T00:03:53+00:00</lastmod>
+        <lastmod>2015-04-02T13:39:17+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
