@@ -9,6 +9,7 @@ author: "Sherry Lichtenberg"
 categories:
     - teleseminars
 show_meta: false
+event_date: "March 26, 2015 2:30 p.m. to 4:00 p.m. Eastern"
 ---
 Thursday, March 26, 2015: 2:30 p.m. to 4:00 p.m. Eastern
 

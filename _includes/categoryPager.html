@@ -1,21 +1,22 @@
 <div class="row">
-  <div class="medium-12 columns">
+  <div class="medium-7 columns">
     {% if paginator.total_pages > 1 %}
     {% if paginator.page != 1 %}
       {% if paginator.previous_page == 1 %}
-      <a href="{{ site.url }}/{{ page.category }}" class="previous">Previous</a>
+      <a class="left button tiny radius icon-chevron-left r15" href="{{ site.url }}/{{ page.category }}" class="previous">Previous Page</a>
       {% else %}
-      <a href="{{ site.url }}/{{ page.category }}/page{{ paginator.previous_page }}" class="previous">Previous</a>
+      <a class="left button tiny radius icon-chevron-left r15" href="{{ site.url }}/{{ page.category }}/page{{ paginator.previous_page }}" class="previous">Previous Page</a>
       {% endif %}
     {% else %}
-
+    <p> </p>
     {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  </div>
+  <div class="medium-3 columns">
     {% if paginator.next_page %}
-      <a href="{{ site.url }}/{{ page.category }}/page{{ paginator.next_page }}" class="next">Next</a>
-    {% else %}
-      <span class="next ">Next</span>
+      <a class="button tiny radius" href="{{ site.url }}/{{ page.category }}/page{{ paginator.next_page }}" class="next">Next Page<span class="icon-chevron-right"></span></a>
     {% endif %}
     {% endif %}
+  </div>
+  <div class="medium-2 columns">
   </div>
 </div>

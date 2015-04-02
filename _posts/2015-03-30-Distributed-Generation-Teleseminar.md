@@ -9,6 +9,7 @@ author: "Ken Costello"
 categories:
     - teleseminars
 show_meta: false
+event_date: "April 30, 2015 2:30 p.m. to 4:00 p.m. Eastern"
 ---
 Thrusday, April 30th, 2015: 2:30 p.m. to 4:00 p.m. Eastern
 
@@ -17,6 +18,7 @@ Thrusday, April 30th, 2015: 2:30 p.m. to 4:00 p.m. Eastern
 Cost: Free for State Governments, $275 for all others
 
 Moderator: Dr. Rajnish Barua, Executive Director, NRRI
+
 Presenter(s):
 
 - Ken Costello, Principal Researcher – Energy & Environment, NRRI

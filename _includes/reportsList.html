@@ -3,7 +3,8 @@
       {% for post in paginator.posts %}
       <a href="{{ site.url }}{{ post.url }}" class="category"><h2>{{ post.title }}</h2>
       {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
-      <p>&mdash; {% if post.author %} {{ post.author }}{% endif %}</p>
+      <p>{% if post.author %}&mdash; {{ post.author }}<br>{% endif %}
+      {% if post.date %}{{ post.date | date: "%B %Y" }}{% endif %}</p>
       <p>
           {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}</a>
           <a href="{{ site.url }}{{ post.url }}" title="Read {{ post.title escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>

@@ -39,7 +39,7 @@
 
     {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ post.url }}"><strong>{{ post.title }}{% if post.subheadline %}</strong> &middot; {{ post.subheadline }}{% endif %}
-      {% if post.author %}<p>&mdash; {{ post.author }}</p>{% endif %}</a></li>
+      <p>{% if post.event_date %}{{ post.event_date }}{% elsif post.author %}&mdash; {{ post.author }}{% endif %}</p></a></li>
     {% endfor %}
       <li class="text-right"><a href="{{ site.url }}/{{ category }}/"><strong>{{ site.data.language.more }}</strong></a></li>
 
