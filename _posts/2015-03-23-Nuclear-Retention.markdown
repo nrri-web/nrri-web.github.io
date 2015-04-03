@@ -16,7 +16,7 @@ Nuclear power has historically provided baseload generation for the United State
 
 From January 2006 to January 2012, the average wholesale price of electricity in the MISO and PJM markets decreased from around $30-$40/MWh to roughly $20-$30/MWh, as seen in Figure 1 below. This has lowered the “quark spread”-the difference between the wholesale price of electricity and the cost of nuclear fuel.
 
-{% fullwidth '/images/reports/nuclearRetention/figureOne.png' 'Figure 1. Average Monthly Quark Spreads for the MISO and PJM Markets' %}
+{% maincolumn '/images/reports/nuclearRetention/figureOne.png' 'Figure 1. Average Monthly Quark Spreads for the MISO and PJM Markets' %}
 
 It is important to note that the average fuel price, as seen in Figure 1, is not representative of all of the costs that face a nuclear generator. Nuclear plants are also seeing rising Operations and Maintenance (O&M) costs. The nuclear fleet is no longer new technology; the average age of a nuclear plant in the United States is 34 years, and 58 plants have applied for license extensions that would allow them to operate past their initial 40-year license period. Estimates have found a $10/MWh increase in non-fuel O&M costs over the 2006 – 2012 time period.{% sidenote 2 '<a href="http://216.30.191.148/071713 VLS Cooper at risk reactor report FINAL1.pdf">Cooper, 2013.</a>' %} The combined factors of lowering electricity prices and increasing costs leave little margin for profit at plants operating in these markets.
 
@@ -28,7 +28,7 @@ Figure 2 offers a summary of the American nuclear fleet and the energy markets t
 
 Nuclear power also offers economic support to local economies, and those impacts are perhaps more immediate to their communities than a closure’s impacts on the larger energy markets. Nuclear plants offer high-paying jobs that, in some cases, represent a large part of a community’s payroll. Table 1 shows economic data regarding the communities in which a nuclear plant has been closed, which varies from the small communities of Windham County, Vermont and Kewaunee County, Wisconsin, to the populous San Diego County, California.
 
-{% fullwidth '/images/reports/nuclearRetention/tableOne.png' 'Table 1. Counties with Closed Nuclear Plants. Crystal River’s closure was officially announced in 2013, but the plant has been out of operation since 2009. The Citrus County data displayed here is from 2007 and 2012, reflecting the time period before and after the operational outage, but also before the plant’s permanent closure in 2013.' %}
+{% maincolumn '/images/reports/nuclearRetention/tableOne.png' 'Table 1. Counties with Closed Nuclear Plants. Crystal River’s closure was officially announced in 2013, but the plant has been out of operation since 2009. The Citrus County data displayed here is from 2007 and 2012, reflecting the time period before and after the operational outage, but also before the plant’s permanent closure in 2013.' %}
 
 The economic data surrounding the closure of nuclear plants is unclear at this time. The Census records economic data every five years, with the last collection occurring in 2012. Three of the four plants that have recently closed were shut down after 2012’s economic census, and we are therefore unable to assess any county or state changes in economic conditions. Further, even with before-and-after statistics, as with the Crystal River Nuclear Plant, it is difficult to say what direct impact the plant closure itself had on the surrounding economy. Greater macroeconomic conditions, such as the Great Recession, are more likely to have caused economic changes within these communities.
 
@@ -69,7 +69,7 @@ In 2013 and 2014 Local Capacity Technical Studies, CA-ISO included scenarios in 
 
 ## Kewaunee Power Station ##
 
-![Kewaunee](/images/reports/nuclearRetention/kewaunee.jpg){: .right-image }Dominion Resources shut down the Kewaunee Power Station in 2013. The 556 MW plant was purchased by Dominion in 2005, and had previously been owned by Wisconsin’s regulated Wisconsin Public Service. After the company sold the plant, the Public Service Commission of Wisconsin no longer had jurisdiction over the plant’s rates, and Dominion had to rely upon market prices for wholesale electric power to operate the plant.
+Dominion Resources shut down the Kewaunee Power Station in 2013. The 556 MW plant was purchased by Dominion in 2005, and had previously been owned by Wisconsin’s regulated Wisconsin Public Service. After the company sold the plant, the Public Service Commission of Wisconsin no longer had jurisdiction over the plant’s rates, and Dominion had to rely upon market prices for wholesale electric power to operate the plant.
 
 In April 2011, Dominion announced that it planned to sell Kewaunee after it was unable to grow its Midwest nuclear fleet. Dominion claimed that Kewaunee’s PPAs were ending when wholesale electric prices were low, ensuring that new PPAs would make keeping the plant running uneconomic. In 2012, when no buyer was found for the plant, Dominion announced that it would close the plant. Dominion reserved $578 million for the plant’s decommissioning. Dominion employed 655 full time employees at Kewaunee Power Station, roughly 12% of Kewaunee County’s employees. Kewaunee County is the smallest county in which a nuclear plant has been closed, with roughly 20,500 residents.
 
@@ -77,7 +77,7 @@ After Dominion’s announcement of the closure, the Midcontinent Independent Sys
 
 ## Crystal River 3 Nuclear Plant ##
 
-![Crystal River](/images/reports/nuclearRetention/crystalRiver.jpg){: .right-image }The Crystal River nuclear plant was an 842 MW station in Florida. The plant stopped running after a refueling outage in September 2009, when the plant’s containment structure was damaged while Progress Energy attempted to replace steam generators within the plant. The plant’s owners, Duke Energy, have decided to decommission the plant rather than undertake the costly repair process.
+The Crystal River nuclear plant was an 842 MW station in Florida. The plant stopped running after a refueling outage in September 2009, when the plant’s containment structure was damaged while Progress Energy attempted to replace steam generators within the plant. The plant’s owners, Duke Energy, have decided to decommission the plant rather than undertake the costly repair process.
 
 Duke acquired the plant in 2012, when they purchased Progress Energy. The plant was previously purchased from Florida Progress Corporation, and had been regulated by the Florida Public Service Commission (FLPSC) throughout its history. The FLPSC approved a $288 million refund to customers to account for the cost of replacement power needed due to the Crystal River outage.
 
