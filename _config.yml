@@ -73,7 +73,12 @@ exclude:
 
 # Additional settings
 collections:
-  - nrriReports
+  nrriReports:
+    output: true
+  board:
+    output: true
+  staff:
+    output: true
 username: nrri-web
 repo: nrri-web.github.io
 destination: ../nrri-web.github.io-pages/

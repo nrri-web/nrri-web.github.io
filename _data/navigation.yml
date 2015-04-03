@@ -1,32 +1,39 @@
 - title: Home
-  url: "/index.html"
+  url: "/"
   side: left
 
 - title: About
-  url: "/info/"
+  url: "/about/"
   side: left
+  dropdown:
+    - title: "Board of Directors"
+      url: "/board/"
+    - title: "Research Advisory Committee"
+      url: "/research-advisory-committee"
+    - title: "NRRI Staff"
+      url: "/staff/"
 
 - title: "Research Reports"
-  url: "/reports/index.html"
+  url: "/reports/"
   side: left
   dropdown:
   - title: "Electricity"
-    url: "/reports/electricity/index.html"
+    url: "/reports/electricity/"
   - title: "Multi-Utility"
-    url: "/reports/multiUtility/index.html"
+    url: "/reports/multiUtility/"
   - title: "Natural Gas"
-    url: "/reports/naturalGas/index.html"
+    url: "/reports/naturalGas/"
   - title: "Telecommunications"
-    url: "/reports/telecommunications/index.html"
+    url: "/reports/telecommunications/"
   - title: "Water"
-    url: "/reports/water/index.html"
+    url: "/reports/water/"
 
 - title: "Teleseminars"
-  url: "/teleseminars/index.html"
+  url: "/teleseminars/"
   side: left
 
 - title: Presentations
-  url: "/presentations/index.html"
+  url: "/presentations/"
   side: left
 
 - title: "Search"
