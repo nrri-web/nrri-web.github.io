@@ -1,9 +1,14 @@
-- menu_name: "Services"
+- menu_name: "Information"
 
 - name: "Contact"
   url: "/contact/"
   class: "services-contact"
   title: "Contact"
+
+- name: "Job Opportunities"
+  url: "/job-opportunities/"
+  class: "job-opportunities"
+  title: "Work for NRRI"
 
 - name: "RSS"
   url: "/feed.xml"

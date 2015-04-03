@@ -79,6 +79,8 @@ collections:
     output: true
   staff:
     output: true
+  jobs:
+    output: true
 username: nrri-web
 repo: nrri-web.github.io
 destination: ../nrri-web.github.io-pages/
