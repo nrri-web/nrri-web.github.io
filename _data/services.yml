@@ -5,9 +5,9 @@
   class: "services-contact"
   title: "Contact"
 
-- name: "Job Opportunities"
-  url: "/job-opportunities/"
-  class: "job-opportunities"
+- name: "Jobs"
+  url: "/jobs/"
+  class: "jobs"
   title: "Work for NRRI"
 
 - name: "RSS"

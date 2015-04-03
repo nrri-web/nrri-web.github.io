@@ -2,7 +2,7 @@
 layout: page
 title: "Job Opportunities"
 show_meta: false
-permalink: "/job-opportunities/"
+permalink: "/jobs/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
