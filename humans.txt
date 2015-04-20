@@ -15,7 +15,7 @@ Twitter: http://twitter.com/dtphelan
 
 # TECHNOLOGY COLOPHON
 
-Last Updated: 2015/04/03
+Last Updated: 2015/04/20
 Standards: HTML5, CSS3
 Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
 Components: Modernizr, jQuery, Backstretch.js, Reveal, Foundation Framework
