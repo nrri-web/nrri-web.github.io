@@ -7,6 +7,36 @@
     <atom:link href="http://nrri-web.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>July 2015 NARUC Notes</title>
+        <description>&lt;h2 id=&quot;richard-kauffman&quot;&gt;Richard Kauffman&lt;/h2&gt;
+
+&lt;p&gt;Identifies 6 trends that drove shift to greater investment:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Focus on returns on invested capital, led to focus on core competencies. Results in an increase in revenue, with a decrease in capital investment.&lt;/li&gt;
+  &lt;li&gt;Customer focused models, rather than production based businesses. Power industry remains a power-pushing business.&lt;/li&gt;
+  &lt;li&gt;Price deflation in commodities. Utilities have been able to increase prices for generally the same services.&lt;/li&gt;
+  &lt;li&gt;Disintermediation, cutting out the middle-man.&lt;/li&gt;
+  &lt;li&gt;Technology, with the ability to create companies. Also, changed nature of customer-business relationships.&lt;/li&gt;
+  &lt;li&gt;Financial market changes, such as high-yield bonds and hedge funds.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Today’s new, disruptive companies aren’t really new, they’re the result of 20+ years of trends. Electricity sector sees trends in wholesale markets, but “the distribution sector has been largely protected” from these trends. If we do nothing, no chance of a death spiral, but a “zombie business.” It will become difficult to attract capital and talent, and difficult to provide adequate services at reasonable costs.&lt;/p&gt;
+
+&lt;p&gt;Aside – competitive markets can help bring innovations, particularly in the area of DER.&lt;/p&gt;
+
+&lt;p&gt;Utilities get paid for deployment of capital, not the efficiency of capital usage. Want utilities to think about new ways to acheive revenues and profits, outside of the rate base. If utilities are to change their business model, they need to change their compensation model.&lt;/p&gt;
+
+&lt;p&gt;Third parties should change as well; they must be involved in figuring out the cost to the entire system. They must also realize that we’re looking for a system-wide solution, not just a support structure for one technology.&lt;/p&gt;
+
+&lt;p&gt;Finally, government needs to change. Governments have relied on grants to support technologies. However, grants do not create markets, they become markets. If market forces are to become more important, regulation needs to change. With DR programs, there becomes less of a regulatory role.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Jun 2015 13:01:00 +0000</pubDate>
+        <link>http://nrri-web.github.io/-notes/NARUC-Notes/</link>
+        <guid isPermaLink="true">http://nrri-web.github.io/-notes/NARUC-Notes/</guid>
+      </item>
+    
+      <item>
         <title>Distributed Generation</title>
         <description>&lt;p&gt;Thrusday, April 30th, 2015: 2:30 p.m. to 4:00 p.m. Eastern&lt;/p&gt;
 
@@ -246,20 +276,6 @@ No worries, just &lt;a href=&quot;http://communities.nrri.org/documents/317330/b
         <pubDate>Tue, 18 Nov 2014 14:01:00 +0000</pubDate>
         <link>http://nrri-web.github.io/presentations/Adapting-Regulation/</link>
         <guid isPermaLink="true">http://nrri-web.github.io/presentations/Adapting-Regulation/</guid>
-      </item>
-    
-      <item>
-        <title>Municipal Broadband</title>
-        <description>&lt;object data=&quot;http://communities.nrri.org/documents/10136/2dc423cf-3af4-4ead-bec6-bb2ac0dc9828&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;
-
-&lt;p&gt;It appears your Web browser is not configured to display PDF files.
-No worries, just &lt;a href=&quot;http://communities.nrri.org/documents/10136/2dc423cf-3af4-4ead-bec6-bb2ac0dc9828&quot;&gt;click here to download the PDF file.&lt;/a&gt;&lt;/p&gt;
-
-&lt;/object&gt;
-</description>
-        <pubDate>Tue, 18 Nov 2014 14:00:00 +0000</pubDate>
-        <link>http://nrri-web.github.io/presentations/Municipal-Broadband/</link>
-        <guid isPermaLink="true">http://nrri-web.github.io/presentations/Municipal-Broadband/</guid>
       </item>
     
   </channel>
