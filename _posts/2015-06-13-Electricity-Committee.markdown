@@ -8,9 +8,9 @@ header-img: "img/post-bg-01.jpg"
 comments:   false
 custom_css: report
 categories:
-  -notes
-  -july2015
-  -electricityCommittee
+  - notes
+  - july2015
+  - electricityCommittee
 ---
 ## Nuclear Power Plant Closures ##
 

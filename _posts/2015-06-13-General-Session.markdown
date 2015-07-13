@@ -8,9 +8,9 @@ header-img: "img/post-bg-01.jpg"
 comments:   false
 custom_css: report
 categories:
-  -notes
-  -july2015
-  -generalSession
+  - notes
+  - july2015
+  - generalSession
 ---
 ## Richard Kauffman ##
 
