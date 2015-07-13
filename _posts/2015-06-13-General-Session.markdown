@@ -1,13 +1,16 @@
 ---
 layout:     page-fullwidth
-title:      "July 2015 NARUC Notes"
-date:       2015-06-13 13:01:00
+title:      "General Session"
+subheadline: "July 2015 NARUC Committee Meetings"
+date:       2015-06-13 10:45:00
 author:     "Daniel Phelan"
 header-img: "img/post-bg-01.jpg"
 comments:   false
 custom_css: report
 categories:
   -notes
+  -july2015
+  -generalSession
 ---
 ## Richard Kauffman ##
 
