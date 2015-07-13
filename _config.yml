@@ -151,6 +151,8 @@ prose:
               value: "announcement"
             - name: "Presentation"
               value: "legacyReport"
+            - name: "Notes"
+              value: "notes"
       - name: "categories"
         field:
           element: "multiselect"
