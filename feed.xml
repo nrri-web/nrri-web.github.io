@@ -7,7 +7,24 @@
     <atom:link href="http://nrri-web.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>July 2015 NARUC Notes</title>
+        <title>Electricity Committee</title>
+        <description>&lt;h2 id=&quot;nuclear-power-plant-closures&quot;&gt;Nuclear Power Plant Closures&lt;/h2&gt;
+
+&lt;p&gt;DOE presentation on plant closures, economic pressures. Presented federal policy options, without necessarily advocating for any of them. Included: market rewards, tax and financing benefits, reducing costs of regulatory compliance, and reducing cost of aging.&lt;/p&gt;
+
+&lt;p&gt;PJM speaking about the impacts of Polar Vortex and policy adoptions. PJM created a penalty to be placed on units that don’t run during high-risk periods, which would be unlikely to be placed on a nuclear unit. However, that’s still not actively encouraging nuclear.&lt;/p&gt;
+
+&lt;p&gt;Also discussion of the 111(d) implications for nuclear: a price on carbon creates cost for other units, increasing the competitive stance of nuclear. PJM emphasizes that it’s remaining fuel-agnostic, and (ediitorializing) isn’t doing anything particularly active to increase nuclear’s standing.&lt;/p&gt;
+
+&lt;p&gt;NEI posits that the market doesn’t value nuclear’s attributes, and therefore the resource is threatened. LCOE costs for nuclear are, according to NEI’s numbers, about half that of gas and wind.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Jun 2015 12:00:00 +0000</pubDate>
+        <link>http://nrri-web.github.io/-notes/-july2015/-electricitycommittee/Electricity-Committee/</link>
+        <guid isPermaLink="true">http://nrri-web.github.io/-notes/-july2015/-electricitycommittee/Electricity-Committee/</guid>
+      </item>
+    
+      <item>
+        <title>General Session</title>
         <description>&lt;h2 id=&quot;richard-kauffman&quot;&gt;Richard Kauffman&lt;/h2&gt;
 
 &lt;p&gt;Identifies 6 trends that drove shift to greater investment:&lt;/p&gt;
@@ -31,9 +48,9 @@
 
 &lt;p&gt;Finally, government needs to change. Governments have relied on grants to support technologies. However, grants do not create markets, they become markets. If market forces are to become more important, regulation needs to change. With DR programs, there becomes less of a regulatory role.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 13 Jun 2015 13:01:00 +0000</pubDate>
-        <link>http://nrri-web.github.io/-notes/NARUC-Notes/</link>
-        <guid isPermaLink="true">http://nrri-web.github.io/-notes/NARUC-Notes/</guid>
+        <pubDate>Sat, 13 Jun 2015 10:45:00 +0000</pubDate>
+        <link>http://nrri-web.github.io/-notes/-july2015/-generalsession/General-Session/</link>
+        <guid isPermaLink="true">http://nrri-web.github.io/-notes/-july2015/-generalsession/General-Session/</guid>
       </item>
     
       <item>
@@ -262,20 +279,6 @@ No worries, just &lt;a href=&quot;http://communities.nrri.org/documents/10136/f5
         <pubDate>Tue, 18 Nov 2014 14:02:00 +0000</pubDate>
         <link>http://nrri-web.github.io/presentations/Clean-Power-Plan/</link>
         <guid isPermaLink="true">http://nrri-web.github.io/presentations/Clean-Power-Plan/</guid>
-      </item>
-    
-      <item>
-        <title>Adapting Public Utility Regulation to a New Electric Industry</title>
-        <description>&lt;object data=&quot;http://communities.nrri.org/documents/10136/750eafd1-6d26-4ef1-b9dd-1cf4bc6a909a&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;
-
-&lt;p&gt;It appears your Web browser is not configured to display PDF files.
-No worries, just &lt;a href=&quot;http://communities.nrri.org/documents/317330/bedde631-ffba-42a2-8717-0dd6c5a30de7&quot;&gt;click here to download the PDF file.&lt;/a&gt;&lt;/p&gt;
-
-&lt;/object&gt;
-</description>
-        <pubDate>Tue, 18 Nov 2014 14:01:00 +0000</pubDate>
-        <link>http://nrri-web.github.io/presentations/Adapting-Regulation/</link>
-        <guid isPermaLink="true">http://nrri-web.github.io/presentations/Adapting-Regulation/</guid>
       </item>
     
   </channel>
